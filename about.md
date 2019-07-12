@@ -4,5 +4,11 @@ title: About
 permalink: /about/
 ---
 
-<title>Ieshitva Jain</title>
+<html>
+<body>
+
+<h1>Ieshitva Jain</h1>
 <p>Doctor || Researcher || Coder || CEO Mydicine</p>
+
+</body>
+</html>
