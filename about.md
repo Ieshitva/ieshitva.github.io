@@ -4,5 +4,5 @@ title: About
 permalink: /about/
 ---
 
-Ieshitva Jain
-Doctor || Researcher || Coder || CEO Mydicine
+<title>Ieshitva Jain </title>
+<p>Doctor || Researcher || Coder || CEO Mydicine</p>
