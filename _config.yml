@@ -23,7 +23,7 @@ github_username:  Ieshitva
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-midnight
+theme: minima
 plugins:
   - jekyll-feed
 
