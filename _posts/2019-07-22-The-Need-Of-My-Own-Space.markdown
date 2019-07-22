@@ -16,7 +16,7 @@ Frankly, it's a shame what the internet has come to just in order to sell some a
 Another thing that fascinates me is going back to the roots of internet.
 Before the advent of social platforms, we had individual webpages where the person owned a site, posted stuff and people who actually wanted to read, visited the webpage. Everything was done to pass on information without either party thinking of 'likes' and 'hearts'. I want to visit that time again with this website. I want to put my views and have meaningful discussions. Having my own exclusive space eliminates the thought of getting most upvotes and hitting popularity within confines of a virtual ecosystem.
 
-I don’t intend to write huge journalistic articles. That’s not my intention here on blog. Though I’d be glad if my posts encourage you to dig deeper and uncover facts on your own. I intend to write my thoughts on world and personal events here and what I think of them. After all that’s the point of a personal blog isn’t it ?
+I don’t intend to write huge journalistic articles. That’s not my intention here on the blog. Though I’d be glad if my posts encourage you to dig deeper and uncover facts on your own. I intend to write my thoughts on world and personal events here and what I think of them. After all that’s the point of a personal blog isn’t it ?
 
 Coming back to privacy issues with Facebook, you can start with the links in this post and look up for more on the internet. <a href="https://www.theguardian.com/technology/2018/dec/14/facebook-privacy-problems-roundup">Take a look here.
 
