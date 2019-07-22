@@ -15,14 +15,14 @@ Before the advent of social platforms, we had individual webpages where the pers
 
 I don’t intend to write huge journalistic articles. That’s not my intention here on blog. Though I’d be glad if my posts encourage you to dig deeper and uncover facts on your own. I intend to write my thoughts on world and personal events here and what I think of them. After all that’s the point of a personal blog isn’t it ?
 
-Coming back to privacy issues with Facebook, you can start with the following links and look up for more on the internet. <a href="https://www.theguardian.com/technology/2018/dec/14/facebook-privacy-problems-roundup">Take a look here:
+Coming back to privacy issues with Facebook, you can start with the following links and look up for more on the internet. <a href="https://www.theguardian.com/technology/2018/dec/14/facebook-privacy-problems-roundup">Take a look here.
 
 Your data is used to train Artificial Intelligence. How ?
 suppose you Google stuff before exams. Look up some medical terms and procedures. Simple. Harmless searches. Right ?
 Google then figures that there is a surge of similar searches in one particular college. Using it's machine learning and AI it predicts there is an exam coming up next day. Based on your searches it predicts how intelligent you are. Predicts how much you'll score. Predicts how successful you'll eventually be in long term. This all is confirmed by your posts on Facebook. 
 
 So what’s the harm ?
-Well for one example, they track your political opinions. Track what is it that you complain most about on FB Insta, WhatsApp. Then compile data. Share it with political leaders visiting your constituency who use it to highlight issues I'm their speech to impress the local people. This is just one example. <a href="https://en.m.wikipedia.org/wiki/Facebook%E2%80%93Cambridge_Analytica_data_scandal">Read more here:
+Well for one example, they track your political opinions. Track what is it that you complain most about on FB Insta, WhatsApp. Then compile data. Share it with political leaders visiting your constituency who use it to highlight issues I'm their speech to impress the local people. This is just one example. <a href="https://en.m.wikipedia.org/wiki/Facebook%E2%80%93Cambridge_Analytica_data_scandal">Read more here.
 
 Such data was used in both Indian and US presidential elections.
 
