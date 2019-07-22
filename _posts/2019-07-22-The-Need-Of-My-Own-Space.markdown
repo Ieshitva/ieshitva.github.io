@@ -25,7 +25,7 @@ suppose you Google stuff before exams. Look up some medical terms and procedures
 Google is capable of figuring out that there is a surge of similar searches in one particular college. Using it's machine learning and AI it predicts there is an exam coming up next day. Based on your searches it predicts how intelligent you are. Predicts how much you'll score. Predicts how successful you'll eventually be in long term. Which you confirm by posting on Facebook.
 
 So what’s the harm ?
-Well for one example, they track your political opinions. Track what is it that you complain most about on FB Instagram, WhatsApp. Then compile that data. Share it with political leaders visiting your constituency who use it to highlight issues in their speech to impress the local people. This is just one example. <a href="https://en.m.wikipedia.org/wiki/Facebook%E2%80%93Cambridge_Analytica_data_scandal">Read more here.
+Well for one example, they track your political opinions. Track what is it that you complain most about on Facebook, Instagram, WhatsApp. Then compile that data. Share it with political leaders visiting your constituency who use it to highlight issues in their speech to impress the local people. This is just one example. <a href="https://en.m.wikipedia.org/wiki/Facebook%E2%80%93Cambridge_Analytica_data_scandal">Read more here.
 
 Such data was used in both Indian and US presidential elections.
 
