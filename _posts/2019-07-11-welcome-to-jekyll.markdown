@@ -15,14 +15,14 @@ Before the advent of social platforms, we had individual webpages where the pers
 
 I don’t intend to write huge journalistic articles. That’s not my intention here on blog. Though I’d be glad if my posts encourage you to dig deeper and uncover facts on your own. I intend to write my thoughts on world and personal events here and what I think of them. After all that’s the point of a personal blog isn’t it ?
 
-Coming back to privacy issues with Facebook, you can start with the following links and look up for more on the internet: https://www.theguardian.com/technology/2018/dec/14/facebook-privacy-problems-roundup
+Coming back to privacy issues with Facebook, you can start with the following links and look up for more on the internet: <a href="https://www.theguardian.com/technology/2018/dec/14/facebook-privacy-problems-roundup">
 
 Your data is used to train Artificial Intelligence. How ?
 suppose you Google stuff before exams. Look up some medical terms and procedures. Simple. Harmless searches. Right ?
 Google then figures that there is a surge of similar searches in one particular college. Using it's machine learning and AI it predicts there is an exam coming up next day. Based on your searches it predicts how intelligent you are. Predicts how much you'll score. Predicts how successful you'll eventually be in long term. This all is confirmed by your posts on Facebook. 
 
 So what’s the harm ?
-Well for one example, they track your political opinions. Track what is it that you complain most about on FB Insta, WhatsApp. Then compile data. Share it with political leaders visiting your constituency who use it to highlight issues I'm their speech to impress the local people. This is just one example. https://en.m.wikipedia.org/wiki/Facebook%E2%80%93Cambridge_Analytica_data_scandal
+Well for one example, they track your political opinions. Track what is it that you complain most about on FB Insta, WhatsApp. Then compile data. Share it with political leaders visiting your constituency who use it to highlight issues I'm their speech to impress the local people. This is just one example. <a href="https://en.m.wikipedia.org/wiki/Facebook%E2%80%93Cambridge_Analytica_data_scandal">
 Such data was used in both Indian and US presidential elections.
 
 Consequences are beyond what we think of. We just know when they finally materialise. I have just chosen not to participate. You have access to all the facts on this matter widely available on internet. You can decide what to do with it but as far as I have understood, people need drastic examples to shake them off their apathy and in present world where you are constantly bombarded with news from all directions, it’s hard to focus on what matters and it has become easy to read and move on.
