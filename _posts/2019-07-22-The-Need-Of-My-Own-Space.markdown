@@ -5,7 +5,7 @@ date:   2019-07-22 23:09:06 +0530
 categories: jekyll update
 ---
 
-I think when I first thought of starting a blog, I had privacy in my mind. We live in a world of ignorance. Humans are great at denying stuff. Keep us long in a situation and we’ll keep moving ignoring the fact that something wrong even exists. Look at what’s going on in Hong Kong and ask your friends what’s their opinion of the situation is, and you’ll understand what I mean to say. 
+I think when I first thought of starting a blog, I had privacy in my mind. We live in a world of ignorance. Humans are great at denying stuff. Keep us long in a situation and we’ll keep moving ignoring the fact that something wrong even exists. Look at what is going on in Hong Kong at the moment and ask your friends what their opinion of the situation is, and you’ll understand what I mean to say. <a href="https://en.wikipedia.org/wiki/2019_Hong_Kong_anti-extradition_bill_protests">Link.
 
 Similarly, this whole scene of facebook and Google, basically the 5 big companies (Facebook, Google, Amazon, Apple and Micrsoft) recording your data and using it, mainly without your permission for their own purpose disturbed me. Sure you don’t have anything to hide but does that mean you will agree to live in a house made of glass where you undress to prying eyes ? Absolutely not. That’s the reason I quit Facebook/Instagram, largely replaced WhatsApp with Telegram and Signal, limited use of Google services, set up NextCloud as my own cloud space replacing Google Drive and OneDrive and moving more and more towards open source software.
 This blog serves as my own place. I own the data I post 
