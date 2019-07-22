@@ -7,11 +7,14 @@ categories: jekyll update
 
 I think when I first thought of starting a blog, I had privacy in my mind. We live in a world of ignorance. Humans are great at denying stuff. Keep us long in a situation and we’ll keep moving ignoring the fact that something wrong even exists. Look at what is going on in Hong Kong at the moment and ask your friends what their opinion of the situation is, and you’ll understand what I mean to say. <a href="https://en.wikipedia.org/wiki/2019_Hong_Kong_anti-extradition_bill_protests">Link.
 
-Similarly, this whole scene of facebook and Google, basically the 5 big companies (Facebook, Google, Amazon, Apple and Micrsoft) recording your data and using it, mainly without your permission for their own purpose disturbed me. Sure you don’t have anything to hide but does that mean you will agree to live in a house made of glass where you undress to prying eyes ? Absolutely not. That’s the reason I quit Facebook/Instagram, largely replaced WhatsApp with Telegram and Signal, limited use of Google services, set up NextCloud as my own cloud space replacing Google Drive and OneDrive and moving more and more towards open source software.
-This blog serves as my own place. I own the data I post 
+Similarly, this whole scenario of facebook and Google, basically the 5 big companies (Facebook, Google, Amazon, Apple and Micrsoft) recording your data and using it, mainly without your permission for their own purposes disturbed me. Sure you don’t have anything to hide but does that mean you will agree to live in a house made of glass where you undress to prying eyes ? Absolutely not.
+That is the reason why I quit Facebook/Instagram, largely replaced WhatsApp with Telegram and Signal, limited use of Google services, set up NextCloud as my own cloud space replacing Google Drive and OneDrive and moving more and more towards open source software. This blog serves as my own place. I own the data I post.
+
+Frankly, it's a shame what the internet has come to just in order to sell some ads.
+
 
 Another thing that fascinates me is going back to the roots of internet.
-Before the advent of social platforms, we had individual webpages where the person owned a site, posted stuff and people who actually wanted to read, visited the webpage. Everything was done to pass on information without either party thinking of 'likes' and 'hearts'. I want to visit that time again with this website. I want to put my views, have meaningful discussions. Having my own exclusive space eliminates the thought of getting most upvotes and hitting popularity within confines of a virtual ecosystem.
+Before the advent of social platforms, we had individual webpages where the person owned a site, posted stuff and people who actually wanted to read, visited the webpage. Everything was done to pass on information without either party thinking of 'likes' and 'hearts'. I want to visit that time again with this website. I want to put my views and have meaningful discussions. Having my own exclusive space eliminates the thought of getting most upvotes and hitting popularity within confines of a virtual ecosystem.
 
 I don’t intend to write huge journalistic articles. That’s not my intention here on blog. Though I’d be glad if my posts encourage you to dig deeper and uncover facts on your own. I intend to write my thoughts on world and personal events here and what I think of them. After all that’s the point of a personal blog isn’t it ?
 
