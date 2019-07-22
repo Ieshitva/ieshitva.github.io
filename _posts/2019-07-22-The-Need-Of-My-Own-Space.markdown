@@ -32,5 +32,6 @@ Such data was used in both Indian and US presidential elections.
 I might sound a person with a tinfoil hat but consequences are beyond what we presently think of. We just know things when they finally materialise and much of what I'm trying to say here has already been done & dusted.
 You have access to all the facts on privacy and issues with tech giants widely available on internet. You can decide what to do with it. I have just chosen not to participate.
 As far as I have understood, people need drastic examples to shake them off their apathy and in present world where you are constantly bombarded with news from all directions, it’s hard to focus on what matters.
+
 What has become easy, is to read and move on. 
 
