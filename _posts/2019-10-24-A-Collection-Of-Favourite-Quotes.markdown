@@ -10,7 +10,7 @@ categories: jekyll update
 
 <p><blockquote><b>A is A</b>-Law of Identity</blockquote>
 
-Ah! Starting with my personal favourite. Has been my got to quote for years. What is, is. There is no point whining about problems, situations and circumstances. What is, is. Invest your time making best of them instead.</p>
+Ah! Starting with my personal favourite. Has been my go to quote for years. What is, is. There is no point whining about problems, situations and circumstances. What is, is. Invest your time making best of them instead.</p>
 <br/>
 
 <p><blockquote><b>We can evade reality, but we cannot evade the consequences of evading reality.</b>-Ayn Rand</blockquote>
