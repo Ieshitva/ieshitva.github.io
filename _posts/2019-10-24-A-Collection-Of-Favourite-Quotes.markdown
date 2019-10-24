@@ -4,7 +4,7 @@ title:  "#2 A Collection Of My Favourite Quotes"
 categories: jekyll update
 ---
 
-<p>An ever updating, exhaustive list of my favourite quotes over the years with my personal take to them.</p>
+<pre><p>An ever updating, exhaustive list of my favourite quotes over the years with my personal take to them.</p>
 
 
 
@@ -42,6 +42,6 @@ Otherwise you're just an inert chunk of randomly assembled molecules drifting wh
 <p><blockquote><b>When you know nothing matters the universe is yours, and I've never met a universe that was into it.<br/>
 The universe is basically an animal. It grazes on the ordinary. It creates infinite idiots just to eat them.<br/>
 Smart people get a chance to climb on top, take reality for a ride, but it will never stop trying to throw you and eventually it will.<br/>
-There’s no other way off.</b>-Rick Sanchez/Rick & Morty</blockquote></p>
+There’s no other way off.</b>-Rick Sanchez/Rick & Morty</blockquote></p></pre>
 
 
