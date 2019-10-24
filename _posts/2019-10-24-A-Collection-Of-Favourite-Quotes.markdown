@@ -8,14 +8,14 @@ An ever updating, exhaustive list of my favourite quotes over the years with my 
 
 
 
-<ul><li><blockquote>A is A-Law of Identity</blockquote>
+<p><blockquote><b>A is A</b>-Law of Identity</blockquote>
 
-Ah! Starting with my personal favourite. Has been my got to quote for years. What is, is. There is no point whining about problems, situations and circumstances. What is, is. Invest your time making best of them instead.</li>
+Ah! Starting with my personal favourite. Has been my got to quote for years. What is, is. There is no point whining about problems, situations and circumstances. What is, is. Invest your time making best of them instead.</p>
 
 
-<li><blockquote>We can evade reality, but we cannot evade the consequences of evading reality.-Ayn Rand</blockquote>
+<p>><blockquote></b>We can evade reality, but we cannot evade the consequences of evading reality.</b>-Ayn Rand</blockquote>
 
-Another classic. You can have arguments, you can have opinions and you may choose to mold reality to suit your comfort but ultimately evading truth doesn't get you too far. The repurcussions of turning a blind eye to reality of life ultimately catches up. You cna choose to neglect privacy issues today, you may choose to turn blind to suppression of human rights in other parts of world today but it all ultimately catches up and affects you one way or the other some day.</li>
+Another classic. You can have arguments, you can have opinions and you may choose to mold reality to suit your comfort but ultimately evading truth doesn't get you too far. The repurcussions of turning a blind eye to reality of life ultimately catches up. You cna choose to neglect privacy issues today, you may choose to turn blind to suppression of human rights in other parts of world today but it all ultimately catches up and affects you one way or the other some day.</p>
 
 
 <li><blockquote>I'm sure this goes against everything you've been taught, but right and wrong do exist.<br/>
