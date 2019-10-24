@@ -15,7 +15,7 @@ Ah! Starting with my personal favourite. Has been my go to quote for years. What
 
 <p><blockquote><b>We can evade reality, but we cannot evade the consequences of evading reality.</b>-Ayn Rand</blockquote>
 
-Another classic. You can have arguments, you can have opinions and you may choose to mold reality to suit your comfort but ultimately evading truth doesn't get you too far. The repurcussions of turning a blind eye to reality of life ultimately catches up. You cna choose to neglect privacy issues today, you may choose to turn blind to suppression of human rights in other parts of world today but it all ultimately catches up and affects you one way or the other some day.</p>
+Another classic. You can have arguments, you can have opinions and you may choose to mold reality to suit your comfort but ultimately evading truth doesn't get you too far. The repercussions of turning a blind eye to reality of life ultimately catches up. You can choose to neglect internet privacy issues today, you may choose to turn blind to suppression of human rights in other parts of world today but it all ultimately catches up and affects you one way or the other sooner or later.</p>
 <br/>
 
 
