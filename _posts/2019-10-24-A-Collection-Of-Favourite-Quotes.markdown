@@ -4,7 +4,7 @@ title:  "#2 A Collection Of My Favourite Quotes"
 categories: jekyll update
 ---
 
-<p>An ever updating, exhaustive list of my favourite quotes over the years with my personal take to them.</p>
+<p>An ever updating, exhaustive list of my favourite quotes over the years with my personal take on them.</p>
 <br/>
 
 
@@ -35,6 +35,7 @@ Either you know what you want and then you don't get what you want...<br/>
 <p><blockquote><b>It gets easier.<br/>
 Everyday it gets a little easier.<br/>
 But you gotta do it everyday. That's the hard part. But it does get easier.</b>-Bojack Horseman</blockquote></p>
+<br/>
 
 
 <p><blockquote><b>To live is to risk it all.<br/>
