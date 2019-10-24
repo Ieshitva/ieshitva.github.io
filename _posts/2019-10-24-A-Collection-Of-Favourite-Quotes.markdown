@@ -4,7 +4,7 @@ title:  "#2 A Collection Of My Favourite Quotes"
 categories: jekyll update
 ---
 
-<pre><p>An ever updating, exhaustive list of my favourite quotes over the years with my personal take to them.</p>
+<p>An ever updating, exhaustive list of my favourite quotes over the years with my personal take to them.</p>
 
 
 
@@ -21,12 +21,12 @@ Another classic. You can have arguments, you can have opinions and you may choos
 <p><blockquote><b>I'm sure this goes against everything you've been taught, but right and wrong do exist.<br/>
 Just because you don't know what the right answer is...maybe there's even no way you could know what the right answer is...doesn't make your answer right or even okay.<br/>
 It's much simpler than that.<br/>
-It's just plain wrong.</b>-Dr.House/House M.D.</blockquote></p>
+It's just plain wrong.</b>-House M.D.</blockquote></p>
 
 
 <p><blockquote><b>Well, that's the problem with life, right ?<br/>
 Either you know what you want and then you don't get what you want...<br/>
-...or you get what you want and then you don't know what you want.</b>-Diane Ngyuen/Bojack Horseman</blockquote></p>
+...or you get what you want and then you don't know what you want.</b>-Bojack Horseman</blockquote></p>
 
 
 <p><blockquote><b>It gets easier.<br/>
@@ -35,13 +35,13 @@ But you gotta do it everyday. That's the hard part. But it does get easier.</b>-
 
 
 <p><blockquote><b>To live is to risk it all.<br/>
-Otherwise you're just an inert chunk of randomly assembled molecules drifting wherever the universe blows you.</b>-Rick Sanchez/Rick & Morty</blockquote></p>
+Otherwise you're just an inert chunk of randomly assembled molecules drifting wherever the universe blows you.</b>-Rick & Morty</blockquote></p>
 
 
 
 <p><blockquote><b>When you know nothing matters the universe is yours, and I've never met a universe that was into it.<br/>
 The universe is basically an animal. It grazes on the ordinary. It creates infinite idiots just to eat them.<br/>
 Smart people get a chance to climb on top, take reality for a ride, but it will never stop trying to throw you and eventually it will.<br/>
-There’s no other way off.</b>-Rick Sanchez/Rick & Morty</blockquote></p></pre>
+There’s no other way off.</b>-Rick & Morty</blockquote></p>
 
 
