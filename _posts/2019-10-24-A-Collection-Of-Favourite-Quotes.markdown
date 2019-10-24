@@ -8,8 +8,7 @@ An ever updating, exhaustive list of my favourite quotes over the years with my 
 
 
 
-<ul><li><b>A is A</b>
--Law of Identity
+<ul><li><blockquote><b>A is A</b>-Law of Identity</blockquote>
 
 Ah! Starting with my personal favourite. Has been my got to quote for years. What is, is. There is no point whining about probelms, situations and circumstances. What is, is. Invest your time making best of them instead.</li>
 
