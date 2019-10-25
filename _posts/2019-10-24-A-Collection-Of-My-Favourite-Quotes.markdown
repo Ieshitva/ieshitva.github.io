@@ -50,4 +50,4 @@ Smart people get a chance to climb on top, take reality for a ride, but it will 
 There’s no other way off.</b>-Rick & Morty</blockquote></p>
 <br/>
 
-
+<p><blockquote><b>Have fun failing upwards.</b>-Bojack Horseman</blockquote>
