@@ -36,4 +36,4 @@ As far as I have understood, people need drastic examples to shake them off thei
 What has become easy, is to read and move on. 
 <br/>
 
-(Have an opinion ? Wanna chat about this ? Come join me at here at: <a href="https://t.me/iAsclepiusTalks">iAsclepius Talks)
+ <font size="2">(Have an opinion ? Wanna chat about this ? Come join me at here at: <a href="https://t.me/iAsclepiusTalks">iAsclepius Talks)</font> 
