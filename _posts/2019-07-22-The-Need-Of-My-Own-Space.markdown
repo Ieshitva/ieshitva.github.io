@@ -37,4 +37,7 @@ What has become easy, is to read and move on.
 <br/>
 
  <font size="2">
- 	(Have an opinion ? Wanna chat about this ? Come join me here at: <a href="https://t.me/iAsclepiusTalks">iAsclepius Talks</a>)</font>
+ 	<i>
+ 	(Have an opinion ? Wanna chat about this ? Come join me here at: <a href="https://t.me/iAsclepiusTalks">iAsclepius Talks </a>)
+ </i>
+ </font>
