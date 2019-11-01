@@ -51,3 +51,6 @@ There’s no other way off.</b>-Rick & Morty</blockquote></p>
 <br/>
 
 <p><blockquote><b>Have fun failing upwards.</b>-Bojack Horseman</blockquote>
+<br/>
+<p><blockquote><b>One day you'll be thought of for the very last time.</blockquote></b>-Anonymous</blockquote>
+<br/>
