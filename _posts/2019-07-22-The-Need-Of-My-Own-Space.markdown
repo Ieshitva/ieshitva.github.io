@@ -34,4 +34,6 @@ You have access to all the facts on privacy and issues with tech giants widely a
 As far as I have understood, people need drastic examples to shake them off their apathy and in present world where you are constantly bombarded with news from all directions, it’s hard to focus on what matters.
 
 What has become easy, is to read and move on. 
+<br/>
 
+Have an opinion ? Wanna chat about this ? Come join me at here at: <a href="https://t.me/iAsclepiusTalks">iAsclepius Talks
