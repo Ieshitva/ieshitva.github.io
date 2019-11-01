@@ -38,4 +38,3 @@ What has become easy, is to read and move on.
 
  <font size="2">
  	(Have an opinion ? Wanna chat about this ? Come join me at here at: <a href="https://t.me/iAsclepiusTalks">iAsclepius Talks) 
- </font> 
