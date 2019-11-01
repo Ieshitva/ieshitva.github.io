@@ -54,3 +54,8 @@ There’s no other way off.</b>-Rick & Morty</blockquote></p>
 <br/>
 <p><blockquote><b>One day you'll be thought of for the very last time.</b>-Anonymous</blockquote>
 <br/>
+<font size="2">
+ 	<i>
+ 	(Have an opinion ? Wanna chat about this ? Come join me here at: <a href="https://t.me/iAsclepiusTalks">iAsclepius Talks </a>)
+ </i>
+ </font>
