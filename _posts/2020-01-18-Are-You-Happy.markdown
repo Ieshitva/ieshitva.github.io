@@ -54,7 +54,7 @@ What this amount of connectivity and social life does is that it doesn't let you
 <br/>
 <br/>
 Your success is determined by how happy you are. How content you are in the moment you are living in. And that is a parameter you get to decide for yourself.<br/>
-You might get 6-pack abs you sweated for, the <i>'dream'</i> job you cried for, marry that <i>'hot'</i> model you dreamed about, drive a Lamorghini with bazillion of dollars stashed in the trunk and still envy the 6 days a week, 9-5 lab worker who married his high school sweetheart 30 years ago and has 2 beautiful daughters he gets to spend 5-12 with.
+You might get 6-pack abs you sweated for, the <i>'dream'</i> job you cried for, marry that <i>'hot'</i> model you dreamed about, drive a Lamorghini with bazillion of dollars stashed in the trunk and still envy the 6 days a week, 9-5 lab worker with a beer belly who married his high school sweetheart 30 years ago and has 2 beautiful daughters he gets to spend 5-12 with.
 
 You need to have your own definition of success for your life. You need to understand what makes you happy. And you really really need to understand whether you love something or you are in love with the idea of that thing.<br/>
 And for that you need to give yourself time and reassess your life choices. You need to take a moment and ask yourself, <i>‘Are You Happy ?'</i>
