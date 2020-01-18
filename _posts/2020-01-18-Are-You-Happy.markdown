@@ -6,20 +6,19 @@ categories: jekyll update
 ---
 
 I think this time it all started with a discussion on why you want kids. Hypotheses were proposed and discussed. Like always.
-</br>
-Such discussions have taken place on a lot of things I think matter in life. Why you want to be what you want to be ? Why you want to have that big a house ? And etc. etc. 
+Such discussions have taken place on a lot of things I think matter in life. <i>Why you want to be what you want to be ? Why you want to have that big a house ?</i> And etc. etc. 
 
 Only this time I realised the common theme beneath these questions. All of them arise in first place because of what we have been trained to expect from our lives by the society. 
 
 And I think that's the crux of many frustrations and problems of life. 
 
-We think and dream of what we want and we strive hard to achieve it. That's what has been taught to us right ? To dream big and to work hard and we'll one day achieve them. 
+We should think and dream of what we want and we strive hard to achieve it. That's what has been taught to us right ? To dream big and to work hard and we'll one day achieve them. 
 
 But seldom do we take a moment to question why do we actually have that dream in first place ? Is it really what I want and if yes, then why do I even want it ? Is it something which 'I' would like to have or is it something years of co-inhabiting this society has implanted in me ?
 
 The other day a colleague put forward a thought I rather found amusing but was put forward in all seriousness, ‘we'll all be married when we meet next after college ends.’
-well, it may or may not happen but I beged to ask why do you feel like marriage is something so big that you need to talk about it like it's a certainty of life we all need to go through ? Why isn't it just a another thing which we ‘can’ do if we feel we want to ?
-I feel funny when I’m laughed at when I say I might never get married or have kids. And that’s society’s conditioning in action. Indian one presents marriage as a norm so people find the idea of never getting married funny.
+well, it may or may not happen but I begged to ask why do you feel like marriage is something so big that you need to talk about it like it's a certainty of life we all need to go through ? Why isn't it just a another thing which we ‘can’ do if we feel we want to ?
+I find it funny when I’m laughed at when I say I might never get married or have kids. And that’s society’s conditioning in action. Indian one presents marriage as a norm so people find the idea of never getting married funny.
 
 And that made me realise the way we think has been conditioned by the society we live in. Getting a job. Getting married and then having kids is a given. What we think our freedom, particularly in Indian society, is to choose when we want these landmarks to happen. We have forgotten that we can question why do we even want these landmarks to take place in first place ?
 And when I observe human nature, I find these preconceived notions rather funny.
