@@ -5,7 +5,7 @@ date:   2020-01-18 18:20:00 +0530
 categories: jekyll update
 ---
 
-I think this time it all started with a discussion on why you want kids. Hypotheses were proposed and discussed. Like always.
+I think this time it all started with a discussion on why you want kids. Hypotheses were proposed and discussed. Like always.</br>
 Such discussions have taken place on a lot of things I think matter in life. Why you want to be what you want to be ? Why you want to have that big a house ? And etc. etc. 
 
 Only this time I realised the common theme beneath these questions. All of them arise in first place because of what we have been trained to expect from our lives by the society. 
@@ -47,7 +47,7 @@ Again, it's not about career choices. It's about everything you want in your lif
 
 From all these thoughts over the years I've gathered one thing. It's important to take a deep look and reassess what your dreams really are and if they are really yours or you've just let yourself to believe you think that way because somewhere down the lane, your parents, your teachers, your dear friends, your relatives, the senior who doesn't know your name,  the junior who can't care less have told you to believe in something which you aren't really passionate about.
 
-And that is hard to do in a life where you are constantly bombarded by information from all sides. You seldom give yourself a moment until you pick up your phone and start scrolling.
+And that is hard to do in a life where you are constantly bombarded by information from all sides. You hardly give yourself a minute before you pick up your phone and start scrolling again.
 What this amount of connectivity and social life does is that it doesn't let you have a moment to think. It's constantly telling you what you need today. And before you take time to mull over one thing, here comes the next thing. This constant inflow of information is also what has uprooted our healthy democracy but that's a talk for some other day.
 <p>
 
@@ -56,7 +56,7 @@ Your success is determined by how happy you are. How content you are in the mome
 You might get a the dream job, drive Lamorghini with bazillion of dollars stashed in the trunk and still envy the 9-5 job worker who married his high school sweetheart 30 years ago and has 2 beautiful daughters he get to spend 5-12 with.
 
 You need to have your own definition of success for your life. You need to understand what makes you happy. And you really really need to understand whether you love something or you are in love with the idea of that thing.
-And for that you need to give yourself time and reassess your life choices. You need to take a moment and think, <i>‘Are You Happy ?'</i></br>
+And for that you need to give yourself time and reassess your life choices. You need to take a moment and think, <i>‘Are You Happy ?'</i>
 
 <font size="2">
  	<i>
