@@ -5,7 +5,8 @@ date:   2020-01-18 18:20:00 +0530
 categories: jekyll update
 ---
 
-I think this time it all started with a discussion on why you want kids. Hypotheses were proposed and discussed. Like always.</br>
+I think this time it all started with a discussion on why you want kids. Hypotheses were proposed and discussed. Like always.
+</br>
 Such discussions have taken place on a lot of things I think matter in life. Why you want to be what you want to be ? Why you want to have that big a house ? And etc. etc. 
 
 Only this time I realised the common theme beneath these questions. All of them arise in first place because of what we have been trained to expect from our lives by the society. 
@@ -49,9 +50,8 @@ From all these thoughts over the years I've gathered one thing. It's important t
 
 And that is hard to do in a life where you are constantly bombarded by information from all sides. You hardly give yourself a minute before you pick up your phone and start scrolling again.
 What this amount of connectivity and social life does is that it doesn't let you have a moment to think. It's constantly telling you what you need today. And before you take time to mull over one thing, here comes the next thing. This constant inflow of information is also what has uprooted our healthy democracy but that's a talk for some other day.
-<p>
+</br>
 
-</p>
 Your success is determined by how happy you are. How content you are in the moment you are living in. And that is a parameter you get to decide for yourself.
 You might get a the dream job, drive Lamorghini with bazillion of dollars stashed in the trunk and still envy the 9-5 job worker who married his high school sweetheart 30 years ago and has 2 beautiful daughters he get to spend 5-12 with.
 
