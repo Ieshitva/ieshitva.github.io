@@ -20,7 +20,7 @@ The other day a colleague put forward a thought I rather found amusing but was p
 well, it may or may not happen but I begged to ask why do you feel like marriage is something so big that you need to talk about it like it's a certainty of life we all need to go through ? Why isn't it just a another thing which we ‘can’ do if we feel we want to ?<br/>
 I find it funny when I’m laughed at when I say I might never get married or have kids. And that’s society’s conditioning in action. Indian one presents marriage as a norm so people find the idea of never getting married funny.
 
-And that made me realise the way we think has been in large parts conditioned by the society we live in. Getting a job. Getting married and then having kids is a given. What we think our freedom, particularly in Indian Society, is to choose the chronology of these events. To choose when we want things to happen in life. It seems like we have forgotten that we can question why do we even want these landmarks to take place in first place ?<br/>
+And that made me realise the way we think has been in large parts conditioned by the society we live in. Getting a job. Getting married and then having kids is a given. What we think our freedom, particularly in Indian Society, is in getting to choose the chronology of these events. To choose when we want things to happen in life. It seems like we have forgotten that we can also question why do we even want these landmarks to take place in first place ?<br/>
 And when I observe human nature, I find these preconceived notions rather funny.
 <br/>
 <br/>
