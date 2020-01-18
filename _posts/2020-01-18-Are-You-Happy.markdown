@@ -20,17 +20,17 @@ The other day a colleague put forward a thought I rather found amusing but was p
 well, it may or may not happen but I begged to ask why do you feel like marriage is something so big that you need to talk about it like it's a certainty of life we all need to go through ? Why isn't it just a another thing which we ‘can’ do if we feel we want to ?
 I find it funny when I’m laughed at when I say I might never get married or have kids. And that’s society’s conditioning in action. Indian one presents marriage as a norm so people find the idea of never getting married funny.
 
-And that made me realise the way we think has been conditioned by the society we live in. Getting a job. Getting married and then having kids is a given. What we think our freedom, particularly in Indian society, is to choose when we want these landmarks to happen. We have forgotten that we can question why do we even want these landmarks to take place in first place ?
+And that made me realise the way we think has been in large parts conditioned by the society we live in. Getting a job. Getting married and then having kids is a given. What we think our freedom, particularly in Indian Society, is to choose the chronology of these events. To chosse when we want things to happen in life. It seems like we have forgotten that we can question why do we even want these landmarks to take place in first place ?
 And when I observe human nature, I find these preconceived notions rather funny.
 
 It's not just about landmarks, somewhere down the lane we let society's expectations of us creep into our lives and decide our dreams for us. 
 
-From childhood, what our standards of achievement means ? Getting 90% ? You want to tell me one who failed is good for nothing ?
+From childhood, what our standards of achievement means ? Getting 90% ? You want to tell me one who failed is actually not intelligent then ?
 
 Our standards of what beauty means ? Remember tall, fair, handsome man with 6 figure salary in matrimonial ads ?
 
 Need something more personal ? 
-Our standard of getting into Medical College ? Getting MBBS is lucky but getting into Dentistry is to be looked down upon ? Why ? Who decided for us what is better and what is worse ? Why is one thing better than the other ? Why did you let someone else decide what is it that would make you happy ? 
+Our standard of getting into Medical College ? Getting MBBS is lucky but getting into Dentistry (BDS) is to be looked down upon ? Why ? Who decided for us what is better and what is worse ? Why is one thing better than the other ? Why did you let someone else decide what is it that would make you happy ? 
 
 And now I hear the same thing when we talk about Post Graduation. You get dermatology then you're lucky. You get pathology, well, you didn't work hard. I dare to ask why ? 
 The other day I was talking about USMLE and the first reply was, "well you're not getting Radiology there so what’s the point ?"
@@ -40,22 +40,22 @@ Well, why do you assume I want it ? Can I not do something because I love it ins
 
 And this brings us to what is success ?
 How do you define a man is successful ? From where he lives ? From how big a house he lives in ? From the number of digits in his salary ? From the car he drives ? From the brand he wears ? 
-From the woman he gets married to ? From how many cosmetic treatments she can get ? From how many dresses she can buy to destroy your impression of yourself ? 
+From the woman he gets married to ? From how many cosmetic treatments she can get ? From how many dresses she can buy to destroy your self esteem ? 
 Really ? From what ?
 
 Again, it's not about career choices. It's about everything you want in your life. Marriage, kids, dream job, whether you want to travel, why do you want to travel to mountains ? Does it really give you peace or have you let yourself believe it does ? What's your source ? That Instagram page ? His life ? Her photographs ?
 
-From all these thoughts over the years I've gathered one thing. It's important to take a deep look and reassess what your dreams really are and if they are really yours or you've just let yourself to believe you think that way because somewhere down the lane, your parents, your teachers, your dear friends, your relatives, the senior who doesn't know your name,  the junior who can't care less have told you to believe in something which you aren't really passionate about.
+From all these thoughts over the years I've gathered one thing. It's important to take a deep look and reassess what your dreams really are and if they are really yours or you've just let yourself to believe you think that way because somewhere down the lane, your parents, your teachers, your dear friends, your relatives, the senior who doesn't know your name,  the junior who coudln't care less had told you to believe in something which you aren't really passionate about.
 
 And that is hard to do in a life where you are constantly bombarded by information from all sides. You hardly give yourself a minute before you pick up your phone and start scrolling again.
 What this amount of connectivity and social life does is that it doesn't let you have a moment to think. It's constantly telling you what you need today. And before you take time to mull over one thing, here comes the next thing. This constant inflow of information is also what has uprooted our healthy democracy but that's a talk for some other day.
-</br>
+
 
 Your success is determined by how happy you are. How content you are in the moment you are living in. And that is a parameter you get to decide for yourself.
-You might get a the dream job, drive Lamorghini with bazillion of dollars stashed in the trunk and still envy the 9-5 job worker who married his high school sweetheart 30 years ago and has 2 beautiful daughters he get to spend 5-12 with.
+You might get the <i>dream</i> job, drive a Lamorghini with bazillion of dollars stashed in the trunk and still envy the 9-5 lab worker who married his high school sweetheart 30 years ago and has 2 beautiful daughters he get to spend 5-12 with.
 
 You need to have your own definition of success for your life. You need to understand what makes you happy. And you really really need to understand whether you love something or you are in love with the idea of that thing.
-And for that you need to give yourself time and reassess your life choices. You need to take a moment and think, <i>‘Are You Happy ?'</i>
+And for that you need to give yourself time and reassess your life choices. You need to take a moment and ask yourself, <i>‘Are You Happy ?'</i>
 
 <font size="2">
  	<i>
