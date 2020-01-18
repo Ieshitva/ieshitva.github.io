@@ -12,7 +12,7 @@ Only this time I realised the common theme beneath these questions. All of them 
 
 And I think that's the crux of many frustrations and problems of life. 
 
-We should think and dream of what we want and we strive hard to achieve it. That's what has been taught to us right ? To dream big and to work hard and we'll one day achieve them. 
+We should think and dream of what we want and strive hard to achieve it. That is what has been taught to us right ? To dream big and to work hard and we'll one day achieve them. 
 
 But seldom do we take a moment to question why do we actually have that dream in first place ? Is it really what I want and if yes, then why do I even want it ? Is it something which 'I' would like to have or is it something years of co-inhabiting this society has implanted in me ?
 
