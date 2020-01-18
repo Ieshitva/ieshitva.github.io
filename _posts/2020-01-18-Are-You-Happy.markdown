@@ -5,8 +5,7 @@ date:   2020-01-18 18:20:00 +0530
 categories: jekyll update
 ---
 
-I think this time it all started with a discussion on why you want kids. Hypotheses were proposed and discussed. Like always.
-
+I think this time it all started with a discussion on why you want kids. Hypotheses were proposed and discussed. Like always.<{% break %}
 Such discussions have taken place on a lot of things I think matter in life. <i>Why you want to be what you want to be ? Why you want to have that big a house ?</i> And etc. etc..
 
 
