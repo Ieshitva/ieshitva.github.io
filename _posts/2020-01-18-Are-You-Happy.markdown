@@ -35,7 +35,7 @@ Need something more personal ?<br/>
 Our standard of getting into Medical College ? Getting MBBS is lucky but getting into Dentistry (BDS) is to be looked down upon ? Why ? Who decided for us what is better and what is worse ? Why is one thing better than the other ? Why did you let someone else decide what is it that would make you happy ?
 
 And now I hear the same thing when talking about Post Graduation. You get dermatology then you're lucky. You get Pathology, well, you didn't work hard. 
-The other day I was talking about USMLE and the first reply was, "well you're not getting Radiology there so what’s the point ?"<br/>
+The other day I was talking about USMLE and the first reply was, "You're not getting Radiology there so what’s the point ?"<br/>
 Well, I dare to ask why ? Why do you assume I want it ? Can I not do something because I love it instead of thinking about which is going to make me more moolahs ?
 <br/>
 <br/>
