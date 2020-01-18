@@ -22,7 +22,8 @@ I find it funny when I’m laughed at when I say I might never get married or ha
 
 And that made me realise the way we think has been in large parts conditioned by the society we live in. Getting a job. Getting married and then having kids is a given. What we think our freedom, particularly in Indian Society, is to choose the chronology of these events. To choose when we want things to happen in life. It seems like we have forgotten that we can question why do we even want these landmarks to take place in first place ?<br/>
 And when I observe human nature, I find these preconceived notions rather funny.
-
+<br/>
+<br/>
 It's not just about landmarks, somewhere down the lane we let society's expectations of us creep into our lives and decide our dreams for us. 
 
 From childhood, what our standards of achievement means ? Getting 90% ? You want to tell me one who failed is actually not intelligent then ?
@@ -35,9 +36,8 @@ Our standard of getting into Medical College ? Getting MBBS is lucky but getting
 And now I hear the same thing when talking about Post Graduation. You get dermatology then you're lucky. You get pathology, well, you didn't work hard. I dare to ask why ? 
 The other day I was talking about USMLE and the first reply was, "well you're not getting Radiology there so what’s the point ?"<br/>
 Well, why do you assume I want it ? Can I not do something because I love it instead of thinking about which is going to make me more moolahs ?
-
-
-
+<br/>
+<br/>
 And this brings us to what is success ?
 How do you define a man is successful ? From where he lives ? From how big a house he lives in ? From the number of digits in his salary ? From the car he drives ? From the brand he wears ? From the woman he gets married to ? From how many cosmetic treatments she can get ? From the number of dresses she can buy until the very last strand of your self esteem is destroyed ?<br/>
 Really ? From what ?
@@ -48,7 +48,6 @@ From all these thoughts over the years I've gathered one thing. It's important t
 
 And that is hard to do in a life where you are constantly bombarded by information from all sides. You hardly give yourself a minute before you pick up your phone and start scrolling again.<br/>
 What this amount of connectivity and social life does is that it doesn't let you have a moment to think. It's constantly telling you what you need today. And before you take time to mull over one thing, here comes the next thing. This constant inflow of information is also what has uprooted our healthy democracy but that's a talk for some other day.
-<br/>
 <br/>
 <br/>
 <br/>
