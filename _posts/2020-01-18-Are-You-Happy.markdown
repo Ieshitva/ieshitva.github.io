@@ -44,7 +44,7 @@ And this brings us to 'what is success ?'
 How do you define a man is successful ? From where he lives ? From how big a house he lives in ? From the number of digits in his salary ? From the car he drives ? From the brand he wears ? From the woman he gets married to ? From how many cosmetic treatments she can get ? From the number of dresses she can buy until the very last strand of your self esteem is destroyed ?<br/>
 Really ? From what ?
 
-Again, it's not about career choices. It's about everything you want in your life. Marriage, kids, dream job, whether you want to travel, why do you want to travel to mountains ? Does it really give you peace or have you let yourself believe it does ? What's your source ? That Instagram page ? His life ? Her photographs ?
+Again, it's not about career choices. It's about everything you want in your life. Marriage, kids, dream job, whether you like to travel, why do you want to travel to mountains ? Does it really give you peace or have you let yourself believe it does ? What's your source ? That Instagram page ? His life ? Her photographs ?
 
 From all these thoughts over the years I've gathered one thing. It's important to take a deep look and reassess what your dreams really are and if they are really yours or you've just let yourself believe you think that way because somewhere down the lane, your parents, your teachers, your dear friends, your relatives, the senior who doesn't know your name, the junior who coudln't care less had told you to believe in something which you aren't really passionate about.
 
