@@ -40,7 +40,7 @@ Well, why do you assume I want it ? Can I not do something because I love it ins
 <br/>
 <br/>
 <br/>
-And this brings us to what is success ?
+And this brings us to 'what is success ?'
 How do you define a man is successful ? From where he lives ? From how big a house he lives in ? From the number of digits in his salary ? From the car he drives ? From the brand he wears ? From the woman he gets married to ? From how many cosmetic treatments she can get ? From the number of dresses she can buy until the very last strand of your self esteem is destroyed ?<br/>
 Really ? From what ?
 
