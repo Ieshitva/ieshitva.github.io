@@ -49,10 +49,17 @@ From all these thoughts over the years I've gathered one thing. It's important t
 
 And that is hard to do in a life where you are constantly bombarded by information from all sides. You seldom give yourself a moment until you pick up your phone and start scrolling.
 What this amount of connectivity and social life does is that it doesn't let you have a moment to think. It's constantly telling you what you need today. And before you take time to mull over one thing, here comes the next thing. This constant inflow of information is also what has uprooted our healthy democracy but that's a talk for some other day.
+<p>
 
-
+</p>
 Your success is determined by how happy you are. How content you are in the moment you are living in. And that is a parameter you get to decide for yourself.
 You might get a the dream job, drive Lamorghini with bazillion of dollars stashed in the trunk and still envy the 9-5 job worker who married his high school sweetheart 30 years ago and has 2 beautiful daughters he get to spend 5-12 with.
 
 You need to have your own definition of success for your life. You need to understand what makes you happy. And you really really need to understand whether you love something or you are in love with the idea of that thing.
-And for that you need to give yourself time and reassess your life choices. You need to take a moment and think, ‘Are You Happy ?’
+And for that you need to give yourself time and reassess your life choices. You need to take a moment and think, <i>‘Are You Happy ?'</i></br>
+
+<font size="2">
+ 	<i>
+ 	(Have an opinion ? Wanna chat about this ? Come join me here at: <a href="https://t.me/iAsclepiusTalks">iAsclepius Talks </a>)
+ </i>
+ </font>
