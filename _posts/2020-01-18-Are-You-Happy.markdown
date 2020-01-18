@@ -24,6 +24,7 @@ And that made me realise the way we think has been in large parts conditioned by
 And when I observe human nature, I find these preconceived notions rather funny.
 <br/>
 <br/>
+<br/>
 It's not just about landmarks, somewhere down the lane we let society's expectations of us creep into our lives and decide our dreams for us. 
 
 From childhood, what our standards of achievement means ? Getting 90% ? You want to tell me one who failed is actually not intelligent then ?
@@ -36,6 +37,7 @@ Our standard of getting into Medical College ? Getting MBBS is lucky but getting
 And now I hear the same thing when talking about Post Graduation. You get dermatology then you're lucky. You get pathology, well, you didn't work hard. I dare to ask why ? 
 The other day I was talking about USMLE and the first reply was, "well you're not getting Radiology there so what’s the point ?"<br/>
 Well, why do you assume I want it ? Can I not do something because I love it instead of thinking about which is going to make me more moolahs ?
+<br/>
 <br/>
 <br/>
 And this brings us to what is success ?
