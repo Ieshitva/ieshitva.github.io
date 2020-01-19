@@ -16,20 +16,21 @@ We should think and dream of what we want and strive hard to achieve it. That is
 
 But seldom do we take a moment to question why do we actually have that dream in first place ? Is it really what I want and if yes, then why do I even want it ? Is it something which 'I' would like to have or is it something years of co-inhabiting this society has implanted in me ?
 
-The other day a colleague put forward a thought I rather found amusing but was put forward in all seriousness, ‘we'll all be married when we meet next after college ends.’
-well, it may or may not happen but I begged to ask why do you feel like marriage is something so big that you need to talk about it like it's a certainty of life we all need to go through ? Why isn't it just a another thing which we ‘can’ do if we feel we want to ?<br/>
-I find it funny when I’m laughed at when I say I might never get married or have kids. And that’s society’s conditioning in action. Indian one presents marriage as a norm so people find the idea of never getting married funny.
+The other day a colleague put forward a thought I rather found amusing but was put forward in all seriousness, ‘we'll all be married by the time we next meet.’
+well, it may or may not happen but I begged to ask why do you feel like marriage is something so big that you need to talk about it ? Why do you feel like it's a certainty of life we all need to go through ? Why isn't it just another thing which we ‘can’ do if want to ?<br/>
+I find it funny when I’m laughed at when I say I might never get married or have kids. That’s society’s conditioning in action. Indian one presents marriage as a norm so people find the idea of never getting married funny.
 
-And that made me realise the way we think has been in large parts conditioned by the society we live in. Getting a job. Getting married and then having kids is a given. What we think our freedom, particularly in Indian Society, is in getting to choose the chronology of these events. To choose when we want things to happen in life. It seems like we have forgotten that we can also question why do we even want these landmarks to take place in first place ?<br/>
+These conversations made me realise that the way we think has been in large parts conditioned by the society we live in.<br/>
+Getting a job. Getting married and then having kids is a given. What we think our freedom, particularly in Indian Society, lies in getting to choose the chronology of these events. To choose when we want things to happen in life. It seems like we have forgotten that we can also question why do we even want these landmarks to take place in first place ?<br/>
 And when I observe human nature, I find these preconceived notions rather funny.
 <br/>
 <br/>
 <br/>
-It's not just about landmarks, somewhere down the lane we let society's expectations of us creep into our lives and decide our dreams for us. 
+And it's not just about landmarks, somewhere down the lane we let society's expectations of us creep into our lives and decide our dreams for us. 
 
-From childhood, what our standards of achievement means ? Getting 90% ? You want to tell me one who failed is actually not intelligent then ?
+From childhood, what do our standards of achievement mean ? Getting 90% ? You want to tell me one who failed is actually not intelligent then ?<br/>
 
-Our standards of what beauty means ? Remember tall, fair, handsome man with 6 figure salary in matrimonial ads ?
+Growing up what do our standards of beauty mean ? Do you remember the words tall, fair, handsome man with 6 figure salary in matrimonial ads ?
 
 Need something more personal ?<br/> 
 Our standard of getting into Medical College ? Getting MBBS is lucky but getting into Dentistry (BDS) is to be looked down upon ? Why ? Who decided for us what is better and what is worse ? Why is one thing better than the other ? Why did you let someone else decide what is it that would make you happy ?
@@ -44,12 +45,12 @@ And this brings us to 'what is success ?'
 How do you define a man is successful ? From where he lives ? From how big a house he lives in ? From the number of digits in his salary ? From the car he drives ? From the brand he wears ? From the woman he gets married to ? From how many cosmetic treatments she can get ? From the number of dresses she can buy until the very last strand of your self esteem is destroyed ?<br/>
 Really ? From what ?
 
-Again, it's not about career choices. It's about everything you want in your life. Marriage, kids, dream job, whether you like to travel, why do you want to travel to mountains ? Does it really give you peace or have you let yourself believe it does ? What's your source ? That Instagram page ? His life ? Her photographs ?
+Again, it's not about career choices. It's about everything you want in your life. Marriage, kids, what interests you apart from academics. Whether you like to travel ? Why do you want to travel to mountains ? Ever asked if it really gives you peace or have you let yourself believe it does ? What's your source ? That Instagram page ? His life ? Her photographs ?
 
 From all these thoughts over the years I've gathered one thing. It's important to take a deep look and reassess what your dreams really are and if they are really yours or you've just let yourself believe you think that way because somewhere down the lane, your parents, your teachers, your dear friends, your relatives, the senior who doesn't know your name, the junior who coudln't care less have made you believe in something which you aren't really passionate about.
 
 And that is hard to do in a life where you are constantly bombarded by information from all sides. You hardly give yourself a minute before you pick up your phone and start scrolling again.<br/>
-What this amount of connectivity and social life does is that it doesn't let you have a moment to think. It is constantly telling you what you need today. And before you take time to mull over one thing, here comes the next thing. This constant inflow of information is also what has uprooted our healthy democracy but that's a talk for some other day.
+What this amount of connectivity and social life does is that it doesn't let you have a moment to think. It is constantly telling you what you need today. And before you take time to mull over one thing, here comes the next thing. What this does is that it conditions you to believe in certain things a certain way. This constant inflow of information is also what has uprooted our healthy democracy but that's a talk for some other day.
 <br/>
 <br/>
 <br/>
