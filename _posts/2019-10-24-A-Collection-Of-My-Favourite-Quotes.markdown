@@ -58,6 +58,9 @@ There’s no other way off.</b>-Rick & Morty</blockquote></p>
 <p><blockquote><b>It's important to know the difference between being love with something or being in love with the idea of that thing.</b>-Vejovis</blockquote>
 <br/>
 
+<p><blockquote><b>Curious that we spend more time congratulating people who have succeeded than encouraging people who have not.</b>-Neil deGrasse Tyson</blockquote>
+<br/>
+
 <font size="2">
  	<i>
  	(Have an opinion ? Wanna chat about this ? Come join me here at: <a href="https://t.me/iAsclepiusTalks">iAsclepius Talks </a>)
