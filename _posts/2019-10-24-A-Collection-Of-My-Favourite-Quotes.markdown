@@ -64,6 +64,10 @@ There’s no other way off.</b>-Rick & Morty</blockquote></p>
 <p><blockquote><b>You will never be happy if you continue to search for what happiness consists of.
 You will never live if you are looking for the meaning of life.</b>-Albert Camus</blockquote>
 <br/>
+
+<p><blockquote><b>Real measure of success is the number of pending <i>treats</i> you have to give.</b>--ICJ</blockquote>
+<br/>
+
 <font size="2">
  	<i>
  	(Have an opinion ? Wanna chat about this ? Come join me here at: <a href="https://t.me/iAsclepiusTalks">iAsclepius Talks </a>)
