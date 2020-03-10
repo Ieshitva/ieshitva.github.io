@@ -66,7 +66,7 @@ There’s no other way off.</b>-Rick & Morty</blockquote></p>
 You will never live if you are looking for the meaning of life.</b>-Albert Camus</blockquote>
 <br/>
 
-<p><blockquote><b>Real measure of success is the number of pending <i>treats</i> you have got left to give.</b>--ICJ</blockquote>
+<p><blockquote><b>Real measure of success is the number of pending <i>treats</i> you have got left to give.</b>-ICJ</blockquote>
 <br/>
 
 <font size="2">
