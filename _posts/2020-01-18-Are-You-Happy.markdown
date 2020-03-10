@@ -3,6 +3,7 @@ layout: post
 title:  "#3 Are You Happy ?"
 date:   2020-01-18 18:20:00 +0530
 categories: jekyll update
+permalink: "/3_are_you_happy/"
 ---
 
 I think this time it all started with a discussion on why you want kids. Hypotheses were proposed and discussed. Like always.<br/>
