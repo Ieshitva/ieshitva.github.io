@@ -6,4 +6,5 @@ categories: jekyll update
 permalink: "/newtests/"
 ---
 Testing 1,2,3
+testing image 
 <img src="/assets/img/asclepius.jpg">
