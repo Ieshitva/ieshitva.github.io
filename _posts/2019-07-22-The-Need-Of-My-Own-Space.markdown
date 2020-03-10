@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: post
 title:  "#1 The Need Of My Own Space"
 date:   2019-07-22 23:09:06 +0530
 categories: jekyll update
