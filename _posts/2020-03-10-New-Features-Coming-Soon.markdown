@@ -7,4 +7,4 @@ permalink: "/newtests/"
 ---
 Testing 1,2,3
 testing image 
-<img src="images/first.jpg">
+<img src="/images/first.jpg">
