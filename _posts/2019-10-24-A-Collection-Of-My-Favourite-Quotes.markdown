@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "#2 A Collection Of My Favourite Quotes"
-categories: jekyll update
-permalink: "/2_a_collection_of_my_favourite_quotes/"
+categories: likes
+permalink: ":category/:title/"
 ---
 
 <p>An ever updating, exhaustive list of my favourite quotes over the years with my personal take on them.</p>
