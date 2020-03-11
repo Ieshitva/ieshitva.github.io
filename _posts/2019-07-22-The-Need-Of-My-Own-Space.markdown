@@ -5,6 +5,18 @@ date:   2019-07-22 23:09:06 +0530
 categories: personal
 permalink: ":category/:title/"
 ---
+ 
+<div class="post-categories">
+  {% if post %}
+    {% assign categories = post.categories %}
+  {% else %}
+    {% assign categories = page.categories %}
+  {% endif %}
+  {% for category in categories %}
+  <a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{category}}</a>
+  {% unless forloop.last %}&nbsp;{% endunless %}
+  {% endfor %}
+</div>
 
 I think when I first thought of starting a blog, I had privacy in my mind. We live in a world of ignorance. Humans are great at denying stuff. Keep us long in a situation and we’ll keep moving ignoring the fact that something wrong even exists. Look at what is going on in Hong Kong at the moment and ask your friends what their opinion of the situation is, and you’ll understand what I mean to say. <a href="https://en.wikipedia.org/wiki/2019_Hong_Kong_anti-extradition_bill_protests">Link.
 
