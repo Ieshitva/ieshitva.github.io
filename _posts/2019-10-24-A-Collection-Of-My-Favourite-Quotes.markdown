@@ -1,13 +1,9 @@
 ---
 layout: post
 title:  "#2 A Collection Of My Favourite Quotes"
-categories: likes
-permalink: ":category/:title/"
+categories: Reviews
+permalink: "/:categories/:title/"
 ---
-
-<p>An ever updating, exhaustive list of my favourite quotes over the years with my personal take on them.</p>
-<br/>
-
 
 <p><blockquote><b>A is A</b>-Law of Identity</blockquote>
 
