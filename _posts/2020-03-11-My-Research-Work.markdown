@@ -6,14 +6,16 @@ categories: Research
 permalink: "/:categories/:title/"
 ---
 
-Following is the list of the research works I've conducted and published over the years:
+Following is the list of the research works I've conducted and published:
+<br/>
 
-> * A community based comparative study on gender perceptions among married (reproductive age) women of rural and urban areas of district Gautam Buddha Nagar
+> * <b>A community based comparative study on gender perceptions among married (reproductive age) women of rural and urban areas of district Gautam Buddha Nagar</b>
 
-Authors: Amit Singh Pawaiya, Khushboo Juneja, Ajay Kumar Jha, Tuhina Shree, Ankita Makhija, Ieshitva Jain, S. Nagesh<br/>
-Date: December 2019.<br/>
-International Journal Of Community Medicine And Public Health, [S.l.], v. 7, n. 1, p. 116-121, dec. 2019. ISSN 2394-6040.<br/>
-Available at: <a href="https://www.ijcmph.com/index.php/ijcmph/article/view/5822">website</a> and <a href="http://dx.doi.org/10.18203/2394-6040.ijcmph20195839">DOI
+<b>Authors:</b> Amit Singh Pawaiya, Khushboo Juneja, Ajay Kumar Jha, Tuhina Shree, Ankita Makhija, Ieshitva Jain, S. Nagesh<br/>
+<b>Date:</b> December 2019.<br/>
+<b>Publicaton:</b>International Journal Of Community Medicine And Public Health,
+[S.l.], v. 7, n. 1, p. 116-121, dec. 2019. ISSN 2394-6040.<br/>
+<b>Available at:</b> <a href="https://www.ijcmph.com/index.php/ijcmph/article/view/5822">website</a> and <a href="http://dx.doi.org/10.18203/2394-6040.ijcmph20195839">DOI
 	<br/>
 	<br/>
 	<br/>
