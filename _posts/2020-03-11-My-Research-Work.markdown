@@ -6,7 +6,7 @@ categories: Research
 permalink: "/:categories/:title/"
 ---
 
-Following is the list of the research works I've conducted and published:
+Following is a list of research works I've conducted and published:
 <br/>
 <br/>
 
