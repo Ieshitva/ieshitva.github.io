@@ -8,3 +8,5 @@ permalink: "/newtests/"
 Testing 1,2,3
 testing image 
 <img src="/images/first.jpg">
+</br>
+testing permalink with categories
