@@ -3,6 +3,8 @@ layout: post
 title:  "#3 Are You Happy ?"
 date:   2020-01-18 18:20:00 +0530
 categories: Blog
+redirect_from:
+- /jekyll/update/2020/01/18/Are-You-Happy.html
 permalink: "/:categories/:title/"
 ---
 
