@@ -2,8 +2,6 @@
 layout: post
 title:  "#2 A Collection Of My Favourite Quotes"
 categories: Reviews
-redirect_from:
--"jekyll/update/2019/10/24/A-Collection-Of-My-Favourite-Quotes/"
 permalink: "/:categories/:title/"
 ---
 

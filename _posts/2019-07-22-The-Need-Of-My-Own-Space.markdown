@@ -3,8 +3,6 @@ layout: post
 title:  "#1 The Need Of My Own Space"
 date:   2019-07-22 23:09:06 +0530
 categories: Blog
-redirect_from:
-- https://ieshitva.com/jekyll/update/2019/07/22/The-Need-Of-My-Own-Space.html
 permalink: "/:categories/:title/"
 ---
  
