@@ -24,7 +24,6 @@ The following is his full address from Oxford Union Society. I love the whole th
 <iframe width="560" height="315" src="https://www.youtube.com/embed/U-xCIstDBaI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br/>
-<br/>
 <font size="2">
  	<i>
  	(Have an opinion ? Wanna chat about this ? Come join me here at: <a href="https://t.me/iAsclepiusTalks">iAsclepius Talks </a>)
