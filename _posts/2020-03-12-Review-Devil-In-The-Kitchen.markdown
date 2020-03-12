@@ -2,7 +2,7 @@
 layout: post
 title:  "#5 Book Review: The Devil In The Kitchen"
 date:   2020-03-12 13:30:00 +0530
-categories: Review
+categories: Reviews
 permalink: "/:categories/:title/"
 ---
 
