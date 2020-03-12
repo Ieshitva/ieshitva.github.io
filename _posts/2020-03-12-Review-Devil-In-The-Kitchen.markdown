@@ -18,7 +18,7 @@ It is easy for us to form a perception of people from the scraps of information 
 
 The rest of story is unassuming. There are no glorious moments to be cherished, there are no quotes to be retold. There are no memorable instances and there are no take home messages. Just like Sachin Tendulkar’s biography, there is nothing much to read here other than a man and his love for his craft. Just pure passion and raw hard work in pursuit of perfection. And isn’t that the hallmark of a true genius after all ?<br/>
 
-The following is his full address from Oxford Union Society. I love the whole thing but the last Q (56:45) in Q&A round (starting 48:00 timestamp) is my favorite. Interested people can take a look. <br/>
+The following is his address from Oxford Union Society. I love the whole thing but the last Q (56:45) in Q&A round (starting 48:00 timestamp) is my favorite. Interested people can take a look. <br/>
 <br/>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/U-xCIstDBaI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
