@@ -4,6 +4,7 @@ title:  "#5 Book Review: The Devil In The Kitchen"
 date:   2020-03-12 13:30:00 +0530
 categories: Reviews
 permalink: "/:categories/:title/"
+comments: true
 ---
 
 2 days. This might be the fastest I have completed a book.<br/>
@@ -24,8 +25,28 @@ The following is his address from Oxford Union Society. I love the whole thing b
 <iframe width="560" height="315" src="https://www.youtube.com/embed/U-xCIstDBaI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br/>
-<font size="2">
- 	<i>
- 	(Have an opinion ? Wanna chat about this ? Come join me here at: <a href="https://t.me/iAsclepiusTalks">iAsclepius Talks </a>)
- </i>
- </font>
+<br/>
+ {% if page.comments %}
+
+ <div id="disqus_thread"></div>
+<script>
+
+/**
+*  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+*  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+/*
+var disqus_config = function () {
+this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+};
+*/
+(function() { // DON'T EDIT BELOW THIS LINE
+var d = document, s = d.createElement('script');
+s.src = 'https://https-ieshitva-com.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+{% endif %} 
+                            
