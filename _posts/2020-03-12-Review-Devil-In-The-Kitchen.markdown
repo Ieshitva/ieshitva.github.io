@@ -6,7 +6,7 @@ categories: Reviews
 permalink: "/:categories/:title/"
 ---
 
-This might be the fastest I have completed a book. 240 pages in 2 days.<br/>
+2 days. This might be the fastest I have completed a book.<br/>
 
 For those who don’t know, Marco Pierre White was the first celebrity chef. Godfather of Modern Culinary. Teacher to big names of industry like Gordon Ramsay. First and the youngest British chef to win 3 Michelin stars (highest possible) and first one to return them back.<br/>
 
