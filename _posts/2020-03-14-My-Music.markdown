@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "#6 My Music"
+date:   2019-07-14 13:42:00 +0530
+categories: Reviews
+permalink: "/:categories/:title/"
+---
+
+This is an ever expanding collection of songs I like. Majorly new finds will be added with dash of classics once in a while as I revisit them.
+
+1. Division by Brian Cid:<br/>
+<iframe src="https://open.spotify.com/embed/track/7DspogxyBwmflClxWeglMZ" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
