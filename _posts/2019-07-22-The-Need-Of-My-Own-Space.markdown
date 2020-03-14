@@ -40,6 +40,7 @@ As far as I have understood, people need drastic examples to shake them off thei
 
 What has become easy, is to read and move on. 
 <br/>
+<br/>
 
  {% if page.comments %}
 <div id="disqus_thread"></div>

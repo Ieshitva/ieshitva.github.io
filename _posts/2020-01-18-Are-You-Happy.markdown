@@ -3,6 +3,7 @@ layout: post
 title:  "#3 Are You Happy ?"
 date:   2020-01-18 18:20:00 +0530
 categories: Blog
+comments: true
 redirect_from:
 - /jekyll/update/2020/01/18/Are-You-Happy.html
 permalink: "/:categories/:title/"
@@ -63,8 +64,29 @@ You might get 6-pack abs you sweated for, the <i>'dream'</i> job you cried for, 
 You need to have your own definition of success for your life. You need to understand what makes you happy. And you really really need to understand whether you love something or you are in love with the idea of that thing.<br/>
 And for that you need to give yourself time and reassess your life choices. You need to take a moment and ask yourself, <i>‘Are You Happy ?'</i>
 
-<font size="2">
- 	<i>
- 	(Have an opinion ? Wanna chat about this ? Come join me here at: <a href="https://t.me/iAsclepiusTalks">iAsclepius Talks </a>)
- </i>
- </font>
+<br/>
+<br/>
+
+{% if page.comments %}
+<div id="disqus_thread"></div>
+<script>
+
+/**
+*  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+*  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+/*
+var disqus_config = function () {
+this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+};
+*/
+(function() { // DON'T EDIT BELOW THIS LINE
+var d = document, s = d.createElement('script');
+s.src = 'https://https-ieshitva-com-1.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+                            
+{% endif %}
