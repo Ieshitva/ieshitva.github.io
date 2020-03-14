@@ -8,10 +8,10 @@ permalink: "/:categories/:title/"
 
 This is an ever expanding collection of songs I like. Majorly new finds will be added with dash of classics once in a while as I revisit them.
 
-1. Playlist: A collection of my favourite electronic music: <br/>
+> Playlist: A collection of my favourite electronic music:
 
 <iframe src="https://open.spotify.com/embed/playlist/5fkISVN3BCkFrfWHsYtWTu" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 <br/>
 
-2. Song: Division by Brian Cid:<br/>
+> Song: Division by Brian Cid:
 <iframe src="https://open.spotify.com/embed/track/7DspogxyBwmflClxWeglMZ" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
