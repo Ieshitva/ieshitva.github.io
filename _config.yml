@@ -28,7 +28,8 @@ plugins:
   - jekyll-feed
   - jekyll-redirect-from
   - jekyll-sitemap
-
+exclude:
+  - .jekyll-cache
   
 
 # Exclude from processing.
