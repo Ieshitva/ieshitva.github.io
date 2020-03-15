@@ -8,7 +8,7 @@ permalink: /about/
 <body>
 
 <h1>Ieshitva Jain</h1>
-<p>Doctor || Researcher || Coder || CEO Mydicine</p>
+<p>Doctor || Researcher || Coder || Guitarist || CEO Mydicine</p>
 
 </body>
 </html>
