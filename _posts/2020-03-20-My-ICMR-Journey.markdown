@@ -90,7 +90,7 @@ My heart skipped a beat. I don’t know what I felt in that moment. Maybe it’s
 
 I just kept my mobile phone away and went for the viva. I did good. Later I could feel every breath on my walk back home that day. 
 
-It was only after I woke up in the evening after a god nap that the tiredness from exam had vanished and I couldn’t believe what I had achieved. I had never felt happier. Something I worked my ass off had met its goal. 
+It was only after I woke up in the evening after a good nap that the tiredness from exam had vanished and I couldn’t believe what I had achieved. I had never felt happier. Something I worked my ass off had met its goal. 
 
 It has been 14 months now since I first started and 2 months since the result came out. The whole experience taught me 2 very valuable things and I want to share them with you.
 <br/>
