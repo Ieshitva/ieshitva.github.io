@@ -63,7 +63,7 @@ Lying there on the bed that day I could see meaning in my effort and the final p
 
 After a well deserved good night’s sleep that day there was a wait for 3-4 months for the final results.
 
-So exactly 3 months later on 25th of Januray 2020, it was my Obstetrics/Gynaecology practical examination and I was sitting outside the ward, waiting for my turn for the last viva of the day. 2:29 PM on the clock and I just thought of checking the ICMR website once for the result. 
+So exactly 3 months later on 25th of Januray 2020, it was my Pre-Professional Obstetrics/Gynaecology practical examination and I was sitting outside the ward, waiting for my turn for the last viva of the day. 2:29 PM on the clock and I just thought of checking the ICMR website once for the result. 
 
 The website loaded.
 
