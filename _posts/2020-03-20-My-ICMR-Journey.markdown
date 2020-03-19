@@ -112,6 +112,9 @@ This is very personal.
 I failed my medical entrance test 3 times. I used to be a topper in school and those failures crushed me. I lost my confidence and it didn’t only reflect in my academics later on but also in my personal life. I let people tell me I’m no good. I felt no good with my academics, my personality, my body image, my relationships. I let everything go down not because they were bad but because I had started to believe that no matter what I do, how hard I try, nothing will come out of it.
 
 Academically it came to a point where I used to idolize the people who got selected for medical school while I didn’t. I looked upto those people as if they were something special. After I saw the result, I realized I was one of them too. That I can do it too. That people are not special, they just work hard, learn from mistakes and keep moving. And this, this is my biggest learning in last 14 months.
+<br/>
+I'm currently working on completing the papers and will add the link here once they get published. 
+<br/>
 
 I know this is a long writeup and I don’t expect anyone to read it. It follows the same philosophy every other thing on my website follows and that is, it is for those who need it.
 You see, I wish someone was there to talk to me when I had started. I wish there was someone to share the experience. I wish there was someone to let me know it’s possible and if you need that then I hope this eased it out a bit for you.
