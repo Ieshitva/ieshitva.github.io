@@ -41,22 +41,23 @@ This is the photograph Shikhar clicked of that chilly winter evening in coffee s
 
 I remembered reading up in news how every year air pollution peaks and breaks maximum permissible threshold in National Capital Region (NCR) and being a resident of NCR myself I wanted to see how much it is impacting me as well as the people I care about. 
 
-Thus, I decided to measure the impact of air pollution on lung health of residents of NCR.
+Thus, I decided to evaluate the impact of air pollution on lung health of residents of NCR.
 To do this I devised a comparative cross sectional study to measure lung health based on symptoms and spirometry of residents of NCR and compare the same data from residents of people residing in a place where air pollution was within permissible limits. 
 
-In January 2019 I submitted my proposal to ICMR and I still remember the day in April when the results were out and I was selected. It was 1:30 PM and I was in the classroom before the lunch break. I went out and took a deep breath. Congratulated myself and shared the news with my parents and a couple of close friends.
+In January 2019 I submitted the proposal to ICMR and I still remember the day in April when the results were out and it was selected.<br/>
+It was 1:30 PM and I was in the classroom before the lunch break. I went out and took a deep breath. Congratulated myself and shared the news with my parents and a couple of close friends.
 
-The first step was passed but the journey had just started. It was April 2019 and it wouldn’t be until January the next year that the process will finally come to an end.
+The first step was done but the journey had just started. It was April 2019 and it wouldn’t be until January the next year that the process will finally come to an end.<br/>
 My first step was to prepare a questionnaire. My classes were from 8:30 AM-1:30 PM and then 2:30-4:30 PM and the only time I could approach my professors was during lunch, so I remember not having lunch for many days straight. After 2 months of brainstorming and 14 different iterations, I was finally satisfied with my study protocol covering all bases according to my understanding of the subject.
 
 The next step was getting the ethical clearance for study. This was surprisingly the hardest part. You see the thing is the Ethical Committee only meets when it is called and it is only called when there are sufficient projects that need to be cleared. So even after preparing my case and presentation well, there was always a chance that the ethical committee might not meet at all and I miss the deadline. To top that, you can not perform any part of study until you get the clearance. So while I had prepared the study protocol by mid June, I did not get the ethical clearance until the end of August.<br/>
-After god knows how many trips to office and pleadings there was finally a meeting and I got my ethical clearance certificate just 3 days before the deadline.
+After god knows how many trips to various offices and pleadings there was finally a meeting and I got my ethical clearance certificate just 3 days before the deadline.
 
 As soon as I got the ethical clearance, I rushed to Pauri Garhwal in Uttarakhand, my hometown to collect data. You see I am a fairly emotional person and being able to incorporate the place that shaped me to be who I am today seemed very poetic to me.
 
 I came back and collected data in NCR.
 
-The final date of submission was 30th of October and it was already end of September when I could get around the final and the humongous job of actually writing the report.<br/>
+The final date of submission was 30th of October and it was already end of September when I could get around the final and the humongous task of actually writing the report.<br/>
 The report has 2 main parts. 1st the statistics and 2nd the text of it doing the explanation and comparison of your findings.<br/>
 I started with evaluating the statistics. The results were promising.<br/>
 Next I wrote the actual report/paper. Here I must tell you that no matter what you do never lose your references like I did. I can’t explain what a pain it is to get them in order in first place let alone finding them again.
