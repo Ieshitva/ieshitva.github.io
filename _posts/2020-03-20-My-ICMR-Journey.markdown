@@ -8,27 +8,31 @@ permalink: "/:categories/:title/"
 ---
 
 
-It was 2014 when I first understood what research is. In my understanding it is the epitome of human knowledge. You learn a lot of things during your educational journey but when you do research, you create new information and that serves as the basis for people after you to better understand the world we live in and push the envelope further making things better.
+It was 2014 when I first came across the word 'research'. Today, in my understanding it is the epitome of human knowledge. You learn a lot of things during your educational journey but when you conduct research, you create new information which serves as a basis for people after you to better understand the world we live in and push the envelope further making things better.
 <b/>
 
-Therefore creating knowledge is something I view in very high regards.
+Therefore, research or the act of creating knowledge is something I hold in very high regards.
 
-In my first year of college I remember asking one of the professors about research prospects in college and I was told that research in my college is non existent and that I should instead focus on my studies.
+In my first year of college I remember asking one of the professors about research prospects and being told that research in my college is non existent and that I should instead focus on my studies.
 
-At the same time it was one of the batchmates who told me that there exists something like STS from ICMR.
+At around the same time it was one of the batchmates who told me that there exists something like STS from ICMR.
 <b/>
 I looked it up and immediately felt overwhelmed because, hey, that had been exactly me most of my life at that time, 'competent but highly under confident.'
 <b/>
 
-I kept the idea of research in my mind but in lack of any good mentor and introduction to any kind of research in academic curriculum I didn’t see that happening at that point.
+I kept the idea of research in my mind but in lack of any good mentorship or introduction to any kind of research in academic curriculum, I didn’t see anything happening that time.
 
-It was in almost last year of college when I started taking things more seriously. I realised that if I don’t pursue what insterests me, I might end up regretting not even trying. With that in mind, I talked to two professors whom I felt most comfortable with. They were generous enough to take time out of their schedule and introduce me to research methodology and together we worked on our first paper and subsequently on 2 more. You can read about them <a href="https://ieshitva.com/research/My-Research-Work/">here.
+It was in almost last year of college when I started taking things more seriously. I realised that if I don’t pursue what interests me, I might end up regretting not even trying. With that in mind, I talked to two professors whom I felt most comfortable with. They were generous enough to take time out of their schedule and introduce me to research methodology and together we worked on our first paper and later on 2 more. You can read about them <a href="https://ieshitva.com/research/My-Research-Work/">here.
 
-It happened at this time that I felt confident enough to revisit the 3 year old dream and I applied for Short Term Studentship (STS) from Indian Council of Medical Research (ICMR).
+It was December of 2018 at that time. I started feeling confident enough to revisit the 3 year old dream so I applied for Short Term Studentship (STS) from Indian Council of Medical Research (ICMR). <br/>
+The first step was to prepare a proposal which basically is a document in which you suggest an idea you want to conduct research on and explain your methodology and usefulness of your work.
 
-It was December of 2018 then. I was in a coffee shop with my closest friend Shikhar and bounced my ideas off him. The list grew long but I was not satisfied.
+I was in a coffee shop with my close friend Shikhar and bounced some ideas off him. The list grew long but nothing seemed worth the effort.
 I have this innate thing where I can’t work on something just for the sake of working. The idea had to be intriguing enough to me. It had to resonate with me. It had to satisfy my curiosity. It had to be something ‘I’ would want to work on.
 <br/>
+This is the photograph Shikhar clicked of that chilly winter evening in that coffee shop:
+![ICMR_STS Report Result](/images/icmr2.jpg){:class="img-responsive"}
+
 I remembered reading up in news how every year air pollution peaks and breaks maximum permissible threshold in National Capital Region (NCR) and being a resident of NCR myself I wanted to see how much it is impacting me as well as the people I care about. 
 
 Thus, I decided to measure the impact of air pollution on lung health of residents of NCR.
