@@ -3,7 +3,7 @@ layout: post
 title:  "#7 My ICMR Journey"
 date:   2020-03-20 01:32:00 +0530
 comments: true
-categories: Research blog
+categories: Research
 permalink: "/:categories/:title/"
 ---
 
