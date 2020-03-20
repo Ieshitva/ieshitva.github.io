@@ -30,8 +30,14 @@ The first step was to prepare a proposal which basically is a document in which 
 I was in a coffee shop with my close friend Shikhar and bounced some ideas off him. The list grew long but nothing seemed worth the effort.
 I have this innate thing where I can’t work on something just for the sake of working. The idea had to be intriguing enough to me. It had to resonate with me. It had to satisfy my curiosity. It had to be something ‘I’ would want to work on.
 <br/>
-This is the photograph Shikhar clicked of that chilly winter evening in that coffee shop:
+<br/>
+
+This is the photograph Shikhar clicked of that chilly winter evening in coffee shop:
 ![ICMR_STS Report Result](/images/icmr2.jpg){:class="img-responsive"}
+<br/>
+<br/>
+<br/>
+
 
 I remembered reading up in news how every year air pollution peaks and breaks maximum permissible threshold in National Capital Region (NCR) and being a resident of NCR myself I wanted to see how much it is impacting me as well as the people I care about. 
 
