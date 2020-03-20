@@ -120,7 +120,7 @@ But hey, I just did it anyway right ? And it’s not because I knew stuff any wa
 * <b>I can do it.</b>
 
 This is very personal.
-I failed my medical entrance test 3 times. I used to be a topper in school and those failures crushed me. I lost my confidence and it didn’t only reflect in my academics later on but also in my personal life. I let people tell me I’m no good. I felt no good with my academics, my personality, my body image, my relationships. I let everything go down not because they were bad but because I had started to believe that no matter what I do, how hard I try, nothing will come out of it.
+I failed my medical entrance test 3 times. I used to be a topper in school and those failures crushed me. I lost my confidence and it didn’t only reflect in my academics later on but also in my personal life. I let people tell me I’m no good. I felt no good with my studies, my personality, my body image, my relationships. I let everything go down not because they were bad but because I had started to believe that no matter what I do, how hard I try, nothing will come out of it.<br/>
 
 Academically it came to a point where I used to idolize the people who got selected for medical school while I didn’t. I looked upto those people as if they were something special. After I saw the result, I realized I was one of them too. That I can do it too. That people are not special, they just work hard, learn from mistakes and keep moving. And this, this is my biggest learning in last 14 months.
 <br/>
