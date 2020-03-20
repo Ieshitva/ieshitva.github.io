@@ -53,7 +53,7 @@ My first step was to prepare a questionnaire. My classes were from 8:30 AM-1:30 
 The next step was getting the ethical clearance for study. This was surprisingly the hardest part. You see the thing is the Ethical Committee only meets when it is called and it is only called when there are sufficient projects that need to be cleared. So even after preparing my case and presentation well, there was always a chance that the ethical committee might not meet at all and I miss the deadline. To top that, you can not perform any part of study until you get the clearance. So while I had prepared the study protocol by mid June, I did not get the ethical clearance until the end of August.<br/>
 After god knows how many trips to various offices and pleadings there was finally a meeting and I got my ethical clearance certificate just 3 days before the deadline.
 
-As soon as I got the ethical clearance, I rushed to Pauri Garhwal in Uttarakhand, my hometown to collect data. It was a 500km, 12 hour long journey but totally worth it. You see I am a fairly emotional person and being able to incorporate the place that shaped me to be who I am today seemed very poetic to me.
+As soon as I got the ethical clearance, I rushed to Pauri Garhwal in Uttarakhand, my hometown to collect data. It was a 980km, 24 hour long journey but totally worth it. You see I am a fairly emotional person and being able to incorporate the place that shaped me to be who I am today seemed very poetic to me.
 
 I came back and collected data in NCR.
 
