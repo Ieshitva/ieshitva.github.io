@@ -25,7 +25,7 @@ I kept the idea of research in my mind but in lack of any good mentorship or int
 It was in almost last year of college when I started taking things more seriously. I realised that if I don’t pursue what interests me, I might end up regretting not even trying. With that in mind, I talked to two professors whom I felt most comfortable with. They were generous enough to take time out of their schedule and introduce me to research methodology and together we worked on our first paper and later on 2 more. You can read about them <a href="https://ieshitva.com/research/My-Research-Work/">here.
 
 It was December of 2018 at that time. I started feeling confident enough to revisit the 3 year old dream so I applied for Short Term Studentship (STS) from Indian Council of Medical Research (ICMR). <br/>
-The first step was to prepare a proposal which basically is a document in which you suggest an idea you want to conduct research on and explain your methodology and usefulness of your work.
+The first step was to prepare a proposal which is basically a document in which you suggest an idea you want to conduct research on and explain your methodology and usefulness of your work.
 
 I was in a coffee shop with my close friend Shikhar and bounced some ideas off him. The list grew long but nothing seemed worth the effort.
 I have this innate thing where I can’t work on something just for the sake of working. The idea had to be intriguing enough to me. It had to resonate with me. It had to satisfy my curiosity. It had to be something ‘I’ would want to work on.
