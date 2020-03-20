@@ -36,7 +36,7 @@ This is the photograph Shikhar clicked of that chilly winter evening in coffee s
 ![ICMR_STS Report Result](/images/icmr2.jpg){:class="img-responsive"}
 <br/>
 <br/>
-<br/>
+
 
 
 I remembered reading up in news how every year air pollution peaks and breaks maximum permissible threshold in National Capital Region (NCR) and being a resident of NCR myself I wanted to see how much it is impacting me as well as the people I care about. 
@@ -53,7 +53,7 @@ My first step was to prepare a questionnaire. My classes were from 8:30 AM-1:30 
 The next step was getting the ethical clearance for study. This was surprisingly the hardest part. You see the thing is the Ethical Committee only meets when it is called and it is only called when there are sufficient projects that need to be cleared. So even after preparing my case and presentation well, there was always a chance that the ethical committee might not meet at all and I miss the deadline. To top that, you can not perform any part of study until you get the clearance. So while I had prepared the study protocol by mid June, I did not get the ethical clearance until the end of August.<br/>
 After god knows how many trips to various offices and pleadings there was finally a meeting and I got my ethical clearance certificate just 3 days before the deadline.
 
-As soon as I got the ethical clearance, I rushed to Pauri Garhwal in Uttarakhand, my hometown to collect data. You see I am a fairly emotional person and being able to incorporate the place that shaped me to be who I am today seemed very poetic to me.
+As soon as I got the ethical clearance, I rushed to Pauri Garhwal in Uttarakhand, my hometown to collect data. It was a 500km, 12 hour long journey but totally worth it. You see I am a fairly emotional person and being able to incorporate the place that shaped me to be who I am today seemed very poetic to me.
 
 I came back and collected data in NCR.
 
@@ -67,10 +67,10 @@ I am not getting into the details of paper writing like getting the abstract rig
 From September to October I used to work during lunch breaks and 5:30 PM to 10:30 PM straight which left me very little time to study for my 2nd Terminal examinations which took place in October itself. Luckily medicine is not learnt in a day and if you have paid attention in classroom you will always know good enough to do well in exams. My exams ended on 24th of October leaving me with 5 days to complete the report whose discussion was still left to be written. 
 I took 2 days off and worked 14 hours a day straight to complete the report. After like 30 versions and numerous proof reads the final draft was ready.
 
-I still remember the relief when I uploaded the final report on the website. I opened a bottle of beer and went straight to my bed, lying there in disbelief of what I had done.
+I still remember the relief when I uploaded the final report on the website. I opened a bottle of beer and went straight to bed, lying there in disbelief of what I had done.
 
-You see in life results don’t matter. You can do you best and still fail. God knows I have failed so so many times after giving my best. I was happy because this is the best I could have done, and I had done it. I was very pleased with my work.<br/>
-Lying there on the bed that day I could see meaning in my effort and the final product of those effort. I was proud of my work and I think if you can say that for your work then that is an end in itself. No pass/fail can take that away from you.
+You see in life results don’t matter. You can do you best and still fail. God knows I have failed so so many times after giving my best. I was happy because this is the best I could have done, and I had done it.<br/>
+Lying there on the bed that day I could see meaning in my efforts and the final product of those efforts. I was proud of my work and I think if you can say that for your work then that is an end in itself. No pass/fail can take that away from you.
 
 After a well deserved good night’s sleep that day there was a wait for 3-4 months for the final results.
 
@@ -84,11 +84,11 @@ I clicked on it.
 
 A pdf started downloading. My heart rate rose.
 
-I opened it.
+It opened.
 
 All the results were given according to your ID with no names mentioned and yes, of course I did not remember my STS ID. What a great time I had chosen to check for the results indeed. On one hand I have to go for my exam any moment now and on the other hand here I am now unable to know what happened to the thing I worked so hard for over an year. Awesome!
 
-I went to my mail. Searched for ones from ICMR and found one with my assigned ID.
+I opened the mail app. Searched for ones from ICMR and found one with my assigned ID.
 
 Copied it and searched for it in the pdf.
 
