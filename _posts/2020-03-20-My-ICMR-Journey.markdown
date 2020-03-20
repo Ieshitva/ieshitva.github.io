@@ -8,7 +8,7 @@ permalink: "/:categories/:title/"
 ---
 
 
-It was 2014 when I first came across the word 'research'. Today, in my understanding it is the epitome of human knowledge. You learn a lot of things during your educational journey but when you conduct research, you create new information which serves as a basis for people after you to better understand the world we live in and push the envelope further making things better.
+It was 2014 when I first came across the word 'research'. Today, in my understanding it is the epitome of human knowledge. You learn great deal of stuff during your academic journey but when you conduct research, you create new information which serves as a basis for people after you to better understand the world we live in and push the envelope to make things better.
 <b/>
 
 Therefore, research or the act of creating knowledge is something I hold in very high regards.
