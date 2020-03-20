@@ -109,8 +109,8 @@ It has been 14 months now since I first started and 2 months since the result ca
 
 * <b>Do not stop.</b>
 
-This is in general. No matter where you are, who you are, how much have you failed before, do not stop. You might hear things. People might tell you that it’s impossible. You might be told that such things do not happen here. That you can try but this is not the kind of place, time, circumstances that will amount to anything but still, do not stop.
-When I started with this whole thing I had no one to look upto. No one guided me. No one told me to mind the mistakes I made along the way. I even remember the day when a batchmate said “We do not do research in this place. It’s for places like AIIMS. You can look up STS and stuff but nothing much will come out of it in this college.”
+This is in general. No matter who you are, where you are, how much have you failed before, do not stop. You might hear things. It's okay. People might tell you all time that it’s impossible. That you can try but this is not the kind of place where stuff happens. That your efforts will not amount to anything but still, do not stop.
+When I started with this whole thing I had no one to look upto. No one guided me. No one told me to mind the mistakes I made along the way. I even remember the day when a batchmate said “We do not do research in this place. It’s for places like AIIMS. You can look up STS and stuff but nothing much will come out of it in this college.”<br/>
 
 But hey, I just did it anyway right ? And it’s not because I knew stuff any way special. I did it because I just started one day and didn’t stop.
 <br/>
