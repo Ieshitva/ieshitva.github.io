@@ -14,7 +14,7 @@ permalink: "/:categories/:title/"
 *Smartphone Addiction & Sleep Disturbances in Youth <br/>
 <br/>
 <br/>
-Following is a list of research works I've conducted and published:
+<b>Following is a list of research works I've conducted and published:</b>
 <br/>
 <br/>
 
