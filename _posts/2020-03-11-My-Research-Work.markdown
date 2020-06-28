@@ -46,9 +46,11 @@ Following is a list of research works I've conducted and published:
 	<br/>
 
 
-<b>Currently working on:</b> *Air Pollution and its Effects on Lung Health in Youth of NCR: A Comparative Cross Sectional Study 
+<b>Currently working on:</b> <br/>
+*Air Pollution and its Effects on Lung Health in Youth of NCR: A Comparative Cross Sectional Study 
 <br/>
-*Correlation between BMI and activity level in children.
+*Correlation between BMI and activity level in children. <br/>
+*Smartphone Addiction & Sleep Disturbances in Youth <br/>
 
 <br/>
 <br/>
