@@ -18,7 +18,7 @@ Following is a list of research works I've conducted and published:
 <br/>
 <br/>
 
-> * A community based comparative study on gender perceptions among married (reproductive age) women of rural and urban areas of district Gautam Buddha Nagar
+> * <b>A community based comparative study on gender perceptions among married (reproductive age) women of rural and urban areas of district Gautam Buddha Nagar</b>
 
 <b>Authors:</b> Amit Singh Pawaiya, Khushboo Juneja, Ajay Kumar Jha, Tuhina Shree, Ankita Makhija, Ieshitva Jain, S. Nagesh<br/>
 <b>Date:</b> December 2019.<br/>
