@@ -33,7 +33,7 @@ Following is a list of research works I've conducted and published:
 
 
 
-> * Incidence of Mupirocin Resistant MRSA Carriers amongst Hospital Staff in a Tertiary Care Hospital of India
+> * <b>Incidence of Mupirocin Resistant MRSA Carriers amongst Hospital Staff in a Tertiary Care Hospital of India</b>
 
 <b>Date:</b> October 2019.<br/>
 <b>Publication:</b> Scholars Journal of Applied Medical Sciences, ISSN 2347-954X (Print) | ISSN 2320-6691 (Online)<br/>
@@ -44,7 +44,7 @@ Following is a list of research works I've conducted and published:
 
 
 
-> * Self perceived visual health among women aged 18-59 years in a rural area of Greater Noida, Uttar Pradesh: a cross sectional study
+> * <b>Self perceived visual health among women aged 18-59 years in a rural area of Greater Noida, Uttar Pradesh: a cross sectional study</b>
 
 <b>Authors:</b> Amit Singh Pawaiya, Ieshitva Jain, Khushboo Juneja, Mithila Dayanithi, S. Nagesh<br/>
 <b>Date:</b> June 2019.<br/>
