@@ -9,7 +9,7 @@ permalink: "/:categories/:title/"
 
 <b>Currently working on:</b> <br/> 
 <br/>
-*Role of streptokinase in the management of loculated empyema and loculated parapneumonic effusion at tertiary centre.
+*Role of streptokinase in the management of loculated empyema and loculated parapneumonic effusion at tertiary centre.<br/>
 *Correlation between BMI and activity level in children. <br/>
 <br/>
 <br/>
