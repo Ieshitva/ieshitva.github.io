@@ -7,8 +7,7 @@ categories: Research
 permalink: "/:categories/:title/"
 ---
 
-<b>Currently working on:</b> <br/>
-*Air Pollution and its Effects on Lung Health in Youth of NCR: A Comparative Cross Sectional Study 
+<b>Currently working on:</b> <br/> 
 <br/>
 *Correlation between BMI and activity level in children. <br/>
 *Smartphone Addiction & Sleep Disturbances in Youth <br/>
@@ -18,6 +17,15 @@ permalink: "/:categories/:title/"
 <br/>
 <br/>
 
+<b>Air Pollution and its Effects on Lung Health in Youth of Delhi NCR: A Comparative Cross Sectional Study</b>
+
+<b>Authors:</b> Ieshitva Jain, Amit Singh Pawaiya, Khushboo Juneja, Devendra Kumar Singh<br/>
+<b>Date:</b>Under Peer Review<br/>
+<b>Publication:</b>WHO South East Asia Journal of Public Health<br/>
+<b>Available at:</b> Under Peer Review
+	<br/>
+	<br/>
+	<br/>
 
 <b>Smartphone use and its impact on sleep quality among undergraduate students of Greater Noida (U.P.)- A comparative study</b>
 
