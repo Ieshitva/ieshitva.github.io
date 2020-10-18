@@ -9,8 +9,9 @@ permalink: "/:categories/:title/"
 
 <b>Currently working on:</b> <br/> 
 <br/>
+*Role of streptokinase in the management of loculated empyema and loculated parapneumonic effusion at tertiary centre.
 *Correlation between BMI and activity level in children. <br/>
-*Smartphone Addiction & Sleep Disturbances in Youth <br/>
+<br/>
 <br/>
 <br/>
 <b>Following is a list of research works I've conducted and published:</b>
