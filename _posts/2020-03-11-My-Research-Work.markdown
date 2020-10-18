@@ -18,6 +18,18 @@ permalink: "/:categories/:title/"
 <br/>
 <br/>
 
+
+<b>Smartphone use and its impact on sleep quality among undergraduate students of Greater Noida (U.P.)- A comparative study</b>
+
+<b>Authors:</b> Khushboo Juneja, Ieshitva Jain, Samreen Khan, Amit Singh Pawaiya, S. Nagesh<br/>
+<b>Date:</b> July 2020.<br/>
+<b>Publication:</b>International Journal Of Scientific Research, [S.l.], v. 6, n. 7, p. 2788-2793, june 2019. ISSN 2394-6040.<br/>
+<b>Available at:</b> <a href="https://www.worldwidejournals.com/international-journal-of-scientific-research-(IJSR)/fileview/smartphone-use-and-its-impact-on-sleep-quality-among-undergraduate-students-of-greater-noida-up-a-comparative-study_July_2020_7781516301_8644097.pdf">website</a>
+	<br/>
+	<br/>
+	<br/>
+
+
 > * <b>A community based comparative study on gender perceptions among married (reproductive age) women of rural and urban areas of district Gautam Buddha Nagar</b>
 
 <b>Authors:</b> Amit Singh Pawaiya, Khushboo Juneja, Ajay Kumar Jha, Tuhina Shree, Ankita Makhija, Ieshitva Jain, S. Nagesh<br/>
