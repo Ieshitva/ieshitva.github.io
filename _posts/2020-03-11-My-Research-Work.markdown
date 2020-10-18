@@ -38,7 +38,7 @@ permalink: "/:categories/:title/"
 	<br/>
 
 
-> * <b>A community based comparative study on gender perceptions among married (reproductive age) women of rural and urban areas of district Gautam Buddha Nagar</b>
+<b>A community based comparative study on gender perceptions among married (reproductive age) women of rural and urban areas of district Gautam Buddha Nagar</b>
 
 <b>Authors:</b> Amit Singh Pawaiya, Khushboo Juneja, Ajay Kumar Jha, Tuhina Shree, Ankita Makhija, Ieshitva Jain, S. Nagesh<br/>
 <b>Date:</b> December 2019.<br/>
@@ -53,7 +53,7 @@ permalink: "/:categories/:title/"
 
 
 
-> * <b>Incidence of Mupirocin Resistant MRSA Carriers amongst Hospital Staff in a Tertiary Care Hospital of India</b>
+<b>Incidence of Mupirocin Resistant MRSA Carriers amongst Hospital Staff in a Tertiary Care Hospital of India</b>
 
 <b>Date:</b> October 2019.<br/>
 <b>Publication:</b> Scholars Journal of Applied Medical Sciences, ISSN 2347-954X (Print) | ISSN 2320-6691 (Online)<br/>
@@ -64,7 +64,7 @@ permalink: "/:categories/:title/"
 
 
 
-> * <b>Self perceived visual health among women aged 18-59 years in a rural area of Greater Noida, Uttar Pradesh: a cross sectional study</b>
+<b>Self perceived visual health among women aged 18-59 years in a rural area of Greater Noida, Uttar Pradesh: a cross sectional study</b>
 
 <b>Authors:</b> Amit Singh Pawaiya, Ieshitva Jain, Khushboo Juneja, Mithila Dayanithi, S. Nagesh<br/>
 <b>Date:</b> June 2019.<br/>
