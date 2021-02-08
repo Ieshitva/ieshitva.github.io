@@ -11,6 +11,7 @@ permalink: "/:categories/:title/"
 <br/>
 *Role of streptokinase in the management of loculated empyema and loculated parapneumonic effusion at tertiary centre.<br/>
 *Correlation between BMI and activity level in children. <br/>
+*Awareness and Utilization of Government Maternity Benefit Schemes Among Recently Delivered Women of Rural Area-A Mixed Method Study.<br/>
 <br/>
 <br/>
 <br/>
@@ -18,7 +19,8 @@ permalink: "/:categories/:title/"
 <br/>
 <br/>
 
-<b>Air Pollution and its Effects on Lung Health in Youth of Delhi NCR: A Comparative Cross Sectional Study</b>
+<b>Air Pollution and its Effects on Lung Health in Youth of Delhi NCR: A Comparative Cross Sectional Study</b><br/>
+This study was part of Indian Council of Medical Research Short Term Studentship Project-2019 (ICMR-STS 2019).<br/>
 
 <b>Authors:</b> Ieshitva Jain, Amit Singh Pawaiya, Khushboo Juneja, Devendra Kumar Singh<br/>
 <b>Date:</b>Under Peer Review<br/>
