@@ -20,7 +20,7 @@ permalink: "/:categories/:title/"
 <br/>
 
 <b>Air Pollution and its Effects on Lung Health in Youth of Delhi NCR: A Comparative Cross Sectional Study</b><br/>
-This study was part of Indian Council of Medical Research Short Term Studentship Project-2019 (ICMR-STS 2019).<br/>
+This study was part of Indian Council of Medical Research Short Term Studentship-2019 (ICMR-STS 2019).<br/>
 
 <b>Authors:</b> Ieshitva Jain, Amit Singh Pawaiya, Khushboo Juneja, Devendra Kumar Singh<br/>
 <b>Date:</b>Under Peer Review<br/>
