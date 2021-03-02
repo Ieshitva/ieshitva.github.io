@@ -38,41 +38,9 @@ Slo-flo beats to chill & relax to.
 <iframe src="https://open.spotify.com/embed/playlist/3Hr48A6xs8KjJXcJEjufah" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 <br/>
 
-<b>Songs:</b>
+> Songs I like:
 
->Division by Brian Cid
-
-<iframe src="https://open.spotify.com/embed/track/7DspogxyBwmflClxWeglMZ" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-<br/>
-
->The Last Dance: Sunrise Remix by Eagles & Butterflies
-
-<iframe src="https://open.spotify.com/embed/track/3GgdqL40jDJIgniw3nSCCg" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-<br/>
-
->Tere Baare Mein Jab Socha Nahin Tha by Jagjit Singh
-
-<iframe src="https://open.spotify.com/embed/track/30D9ssD5IgX3kQloN96v7k" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-<br/>
-
->Satellite by WYS
-
-<iframe src="https://open.spotify.com/embed/track/3HdzKbxmMikjtyxWQUWNtK" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-<br/>
-
->Shield by WYS
-
-<iframe src="https://open.spotify.com/embed/track/2fKZobZeEVIT0XqGtGESX5" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-<br/>
-
->The Queen of Hearts by Ezra Furman
-
-<iframe src="https://open.spotify.com/embed/track/35Ug04U7NH8fQTYqnIiuLj" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-<br/>
-
->Fool In The Rain by Led Zeppelin
-
-<iframe src="https://open.spotify.com/embed/track/3i25w2HOWoafnTIiWJCL71" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe src="https://open.spotify.com/embed/playlist/2LUaYHP8knJj0tAHIYPeQ8" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 <br/>
 
