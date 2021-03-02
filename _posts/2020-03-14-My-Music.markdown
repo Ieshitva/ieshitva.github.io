@@ -38,7 +38,9 @@ Slo-flo beats to chill & relax to.
 <iframe src="https://open.spotify.com/embed/playlist/3Hr48A6xs8KjJXcJEjufah" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 <br/>
 
-> Songs I like:
+> iAsclepius Listens
+
+My public playlist with all my fav tunes.
 
 <iframe src="https://open.spotify.com/embed/playlist/2LUaYHP8knJj0tAHIYPeQ8" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
