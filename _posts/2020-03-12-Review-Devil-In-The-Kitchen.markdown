@@ -1,12 +1,14 @@
 ---
 layout: post
-title:  "#5 Book Review: The Devil In The Kitchen"
+title:  "#5 Book Reviews"
 date:   2020-03-12 13:30:00 +0530
 categories: Reviews
 permalink: "/:categories/:title/"
 comments: true
 ---
 
+<h1>The Devil In The Kitchen</h1>
+<br/>
 2 days. This might be the fastest I have completed a book.<br/>
 
 For those who don’t know, Marco Pierre White was the first celebrity chef. Godfather of Modern Culinary. Teacher to big names of industry like Gordon Ramsay. First and the youngest British chef to win 3 Michelin stars (highest possible) and first one to return them back.<br/>
