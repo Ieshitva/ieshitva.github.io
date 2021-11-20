@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "# And start"
-date:   2020-03-14 13:42:00 +0530
+title:  "#12 And start"
+date:   
 comments: true
-categories: cateegory
+categories: new
 permalink: "/:categories/:title/"
 ---
 
