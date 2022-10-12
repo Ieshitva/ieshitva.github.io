@@ -6,7 +6,8 @@ comments: true
 categories: Research
 permalink: "/:categories/:title/"
 ---
-
+<p><blockquote><b>Studying is exploring the known.<b/>
+Research is exploring the unknown.</b>-Law of Identity</blockquote>
 
 It was 2014 when I first came across the word 'research'. Today, in my understanding it is the epitome of human knowledge. You learn great deal of stuff during your academic journey but when you conduct research, you create new information which serves as a basis for people after you to better understand the world we live in and push the envelope to make things better.
 <b/>
