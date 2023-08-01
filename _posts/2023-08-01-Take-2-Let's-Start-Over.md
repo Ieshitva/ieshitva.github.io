@@ -11,9 +11,9 @@ permalink: "/:categories/:title/"
 ![Maldives](/images/Maldives.jpg){:class="img-responsive"}
 
 I visited Maldives in 2019. I described it as a changing experience in my life.
-And here I am again, 4 years older, revisiting the same place and retracing my own footsteps.<br/>
+Now, 4 years older, I'm revisiting the same old place and retracing my own footsteps.<br/>
 
-For most of my twenties, I had subscribed to a very nihilistic view of life. That nothing matters and It’s all going to pass is what spearheaded my actions. Consequently, I put in the work but attached no meaning to anything, and as a result, I couldn’t shake this feeling that my life was going by on autopilot.</b>
+For most of my twenties, I had subscribed to a very nihilistic view of life. That nothing matters and It’s all going to pass is what spearheaded my actions. Consequently, I put in the work but attached no meaning to anything, and as a result, I couldn’t shake this feeling that my life was going by on autopilot. I had achievements, not experiences.</b>
 
 
 After getting back to India, I had the luck of collaborating with some of my teachers, whom I hold in high regard, on a research project close to my heart. I cleared my medical exams soon after. I served during the pandemic. I saw the delicate interplay of life and death up close at what I still consider to be a young age. Lost a friend to the pandemic. Rekindled some friendships that shouldn’t have been let go. Worked to progress artificial intelligence in health. Got published. Got out of a toxic relationship. Learnt the intricacies of world finance. Learnt a thing or two about music. Grew my hair long, then cut it short and now watching them grow grey while I pack and prepare to say goodbye to my homeland.</b>
