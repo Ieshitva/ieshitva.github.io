@@ -3,12 +3,12 @@ layout: post
 title:  "#9 Take 2: Let's Start Over"
 date:   2023-08-01 17:18:00 +0530
 comments: true
-categories: Personal
+categories: Blog
 permalink: "/:categories/:title/"
 ---
 <p><blockquote><b>Take 2: Let's Start Over</b></blockquote></p>
 
-![Maldives](/images/maldives.jpg){:class="img-responsive"}
+![Maldives](/images/Maldives.jpg){:class="img-responsive"}
 
 I visited Maldives in 2019. I described it as a changing experience in my life.
 And here I am again, 4 years older, revisiting the same place and retracing my own footsteps.<br/>
